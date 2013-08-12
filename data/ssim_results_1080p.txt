@@ -1,0 +1,4477 @@
+SSIM for Image # 0 :  1.0 
+
+SSIM for Image # 1 :  1.0 
+
+SSIM for Image # 2 :  0.933730925373 
+
+SSIM for Image # 3 :  0.942871926836 
+
+SSIM for Image # 4 :  0.947721837818 
+
+SSIM for Image # 5 :  0.936124120887 
+
+SSIM for Image # 6 :  0.945876898494 
+
+SSIM for Image # 7 :  0.950552313839 
+
+SSIM for Image # 8 :  0.937108453747 
+
+SSIM for Image # 9 :  0.945534523659 
+
+SSIM for Image # 10 :  0.949447565142 
+
+SSIM for Image # 11 :  0.938315667939 
+
+SSIM for Image # 12 :  0.944917953224 
+
+SSIM for Image # 13 :  0.945657776194 
+
+SSIM for Image # 14 :  0.949828989805 
+
+SSIM for Image # 15 :  0.938703830658 
+
+SSIM for Image # 16 :  0.944367507329 
+
+SSIM for Image # 17 :  0.949754254574 
+
+SSIM for Image # 18 :  0.93777490308 
+
+SSIM for Image # 19 :  0.946883688549 
+
+SSIM for Image # 20 :  0.950741811074 
+
+SSIM for Image # 21 :  0.93831529335 
+
+SSIM for Image # 22 :  0.945774109945 
+
+SSIM for Image # 23 :  0.950665818752 
+
+SSIM for Image # 24 :  0.917129606847 
+
+SSIM for Image # 25 :  0.939421437512 
+
+SSIM for Image # 26 :  0.956924451329 
+
+SSIM for Image # 27 :  0.951430601256 
+
+SSIM for Image # 28 :  0.940739690725 
+
+SSIM for Image # 29 :  0.94817657115 
+
+SSIM for Image # 30 :  0.953101321845 
+
+SSIM for Image # 31 :  0.940300348009 
+
+SSIM for Image # 32 :  0.948182018815 
+
+SSIM for Image # 33 :  0.953978518698 
+
+SSIM for Image # 34 :  0.941101932282 
+
+SSIM for Image # 35 :  0.930163270929 
+
+SSIM for Image # 36 :  0.948445612154 
+
+SSIM for Image # 37 :  0.953158544207 
+
+SSIM for Image # 38 :  0.941065147815 
+
+SSIM for Image # 39 :  0.948349118979 
+
+SSIM for Image # 40 :  0.953650569762 
+
+SSIM for Image # 41 :  0.941984508628 
+
+SSIM for Image # 42 :  0.949254260061 
+
+SSIM for Image # 43 :  0.953626136671 
+
+SSIM for Image # 44 :  0.943467856838 
+
+SSIM for Image # 45 :  0.95005871846 
+
+SSIM for Image # 46 :  0.944238288273 
+
+SSIM for Image # 47 :  0.954914477167 
+
+SSIM for Image # 48 :  0.943306514735 
+
+SSIM for Image # 49 :  0.950855804481 
+
+SSIM for Image # 50 :  0.955509724552 
+
+SSIM for Image # 51 :  0.943386764644 
+
+SSIM for Image # 52 :  0.951979253089 
+
+SSIM for Image # 53 :  0.956289613619 
+
+SSIM for Image # 54 :  0.944737283027 
+
+SSIM for Image # 55 :  0.95283512482 
+
+SSIM for Image # 56 :  0.95782783766 
+
+SSIM for Image # 57 :  0.915803261313 
+
+SSIM for Image # 58 :  0.948619959945 
+
+SSIM for Image # 59 :  0.954826730511 
+
+SSIM for Image # 60 :  0.95876829664 
+
+SSIM for Image # 61 :  0.946560560791 
+
+SSIM for Image # 62 :  0.95457034933 
+
+SSIM for Image # 63 :  0.959343719431 
+
+SSIM for Image # 64 :  0.950271541407 
+
+SSIM for Image # 65 :  0.955191709946 
+
+SSIM for Image # 66 :  0.959703029743 
+
+SSIM for Image # 67 :  0.950476412179 
+
+SSIM for Image # 68 :  0.930607491684 
+
+SSIM for Image # 69 :  0.954995902155 
+
+SSIM for Image # 70 :  0.959097628239 
+
+SSIM for Image # 71 :  0.948982604193 
+
+SSIM for Image # 72 :  0.953188433871 
+
+SSIM for Image # 73 :  0.957698102954 
+
+SSIM for Image # 74 :  0.945692171864 
+
+SSIM for Image # 75 :  0.953126674122 
+
+SSIM for Image # 76 :  0.956879721415 
+
+SSIM for Image # 77 :  0.946847012311 
+
+SSIM for Image # 78 :  0.953672928399 
+
+SSIM for Image # 79 :  0.944421760925 
+
+SSIM for Image # 80 :  0.958311726563 
+
+SSIM for Image # 81 :  0.94940613174 
+
+SSIM for Image # 82 :  0.954719500596 
+
+SSIM for Image # 83 :  0.959715496332 
+
+SSIM for Image # 84 :  0.949469493323 
+
+SSIM for Image # 85 :  0.956124210987 
+
+SSIM for Image # 86 :  0.959967937263 
+
+SSIM for Image # 87 :  0.948862600131 
+
+SSIM for Image # 88 :  0.963078265966 
+
+SSIM for Image # 89 :  0.960302315192 
+
+SSIM for Image # 90 :  0.916109253549 
+
+SSIM for Image # 91 :  0.94951401925 
+
+SSIM for Image # 92 :  0.970307786667 
+
+SSIM for Image # 93 :  0.96339613935 
+
+SSIM for Image # 94 :  0.954867308462 
+
+SSIM for Image # 95 :  0.960232670289 
+
+SSIM for Image # 96 :  0.963773896082 
+
+SSIM for Image # 97 :  0.955845810198 
+
+SSIM for Image # 98 :  0.959965399966 
+
+SSIM for Image # 99 :  0.962109166078 
+
+SSIM for Image # 100 :  0.953026681437 
+
+SSIM for Image # 101 :  0.929717731351 
+
+SSIM for Image # 102 :  0.959668860181 
+
+SSIM for Image # 103 :  0.963764878589 
+
+SSIM for Image # 104 :  0.955264452574 
+
+SSIM for Image # 105 :  0.960590609647 
+
+SSIM for Image # 106 :  0.964616107123 
+
+SSIM for Image # 107 :  0.955862799673 
+
+SSIM for Image # 108 :  0.961019497418 
+
+SSIM for Image # 109 :  0.96237672614 
+
+SSIM for Image # 110 :  0.951756739916 
+
+SSIM for Image # 111 :  0.959328312622 
+
+SSIM for Image # 112 :  1.0 
+
+SSIM for Image # 113 :  0.943305032218 
+
+SSIM for Image # 114 :  0.963152752473 
+
+SSIM for Image # 115 :  0.954423693757 
+
+SSIM for Image # 116 :  0.95936277265 
+
+SSIM for Image # 117 :  0.962821576078 
+
+SSIM for Image # 118 :  0.953913194354 
+
+SSIM for Image # 119 :  0.953004507331 
+
+SSIM for Image # 120 :  0.957242946486 
+
+SSIM for Image # 121 :  0.947581163092 
+
+SSIM for Image # 122 :  0.953804829252 
+
+SSIM for Image # 123 :  0.958194211928 
+
+SSIM for Image # 124 :  0.913180261376 
+
+SSIM for Image # 125 :  0.947842046477 
+
+SSIM for Image # 126 :  0.954526304427 
+
+SSIM for Image # 127 :  0.95767170866 
+
+SSIM for Image # 128 :  0.945819984537 
+
+SSIM for Image # 129 :  0.952743524081 
+
+SSIM for Image # 130 :  0.957154248891 
+
+SSIM for Image # 131 :  0.947272109442 
+
+SSIM for Image # 132 :  0.953965485089 
+
+SSIM for Image # 133 :  0.958566173005 
+
+SSIM for Image # 134 :  0.948658240867 
+
+SSIM for Image # 135 :  0.931178328705 
+
+SSIM for Image # 136 :  0.954118144758 
+
+SSIM for Image # 137 :  0.958012672019 
+
+SSIM for Image # 138 :  0.946746712477 
+
+SSIM for Image # 139 :  0.952949221271 
+
+SSIM for Image # 140 :  0.957220962201 
+
+SSIM for Image # 141 :  0.945040550625 
+
+SSIM for Image # 142 :  0.953525988034 
+
+SSIM for Image # 143 :  0.957071251065 
+
+SSIM for Image # 144 :  0.945300314565 
+
+SSIM for Image # 145 :  0.95311423603 
+
+SSIM for Image # 146 :  0.94542429235 
+
+SSIM for Image # 147 :  0.957514352091 
+
+SSIM for Image # 148 :  0.947842241736 
+
+SSIM for Image # 149 :  0.9530436455 
+
+SSIM for Image # 150 :  0.956993370968 
+
+SSIM for Image # 151 :  0.945574532865 
+
+SSIM for Image # 152 :  0.952362219543 
+
+SSIM for Image # 153 :  0.957670243269 
+
+SSIM for Image # 154 :  0.947102763509 
+
+SSIM for Image # 155 :  0.953005508316 
+
+SSIM for Image # 156 :  0.956983366933 
+
+SSIM for Image # 157 :  0.919428253741 
+
+SSIM for Image # 158 :  0.945564306733 
+
+SSIM for Image # 159 :  0.964073627939 
+
+SSIM for Image # 160 :  0.957732830477 
+
+SSIM for Image # 161 :  0.94610290322 
+
+SSIM for Image # 162 :  0.95183121928 
+
+SSIM for Image # 163 :  0.957326802452 
+
+SSIM for Image # 164 :  0.945473592228 
+
+SSIM for Image # 165 :  0.951410556732 
+
+SSIM for Image # 166 :  0.955323116348 
+
+SSIM for Image # 167 :  0.94300970751 
+
+SSIM for Image # 168 :  0.930652925653 
+
+SSIM for Image # 169 :  0.950687933059 
+
+SSIM for Image # 170 :  0.955071332652 
+
+SSIM for Image # 171 :  0.944561322065 
+
+SSIM for Image # 172 :  0.950967006186 
+
+SSIM for Image # 173 :  0.955865668673 
+
+SSIM for Image # 174 :  0.944702232761 
+
+SSIM for Image # 175 :  0.953073583918 
+
+SSIM for Image # 176 :  0.95590225378 
+
+SSIM for Image # 177 :  0.944209433962 
+
+SSIM for Image # 178 :  0.949899025774 
+
+SSIM for Image # 179 :  0.943994695751 
+
+SSIM for Image # 180 :  0.954601077733 
+
+SSIM for Image # 181 :  0.943640461446 
+
+SSIM for Image # 182 :  0.949387536994 
+
+SSIM for Image # 183 :  0.953823094921 
+
+SSIM for Image # 184 :  0.942791972129 
+
+SSIM for Image # 185 :  0.94924828404 
+
+SSIM for Image # 186 :  0.954022762013 
+
+SSIM for Image # 187 :  0.943199921156 
+
+SSIM for Image # 188 :  0.949660405165 
+
+SSIM for Image # 189 :  0.954533431116 
+
+SSIM for Image # 190 :  0.915310712328 
+
+SSIM for Image # 191 :  0.942993729829 
+
+SSIM for Image # 192 :  0.951682196703 
+
+SSIM for Image # 193 :  0.954697635853 
+
+SSIM for Image # 194 :  0.942602329379 
+
+SSIM for Image # 195 :  0.950198333813 
+
+SSIM for Image # 196 :  0.955270145757 
+
+SSIM for Image # 197 :  0.944283172692 
+
+SSIM for Image # 198 :  0.95057956185 
+
+SSIM for Image # 199 :  0.955129182271 
+
+SSIM for Image # 200 :  0.944658980933 
+
+SSIM for Image # 201 :  0.929366801686 
+
+SSIM for Image # 202 :  0.950566360306 
+
+SSIM for Image # 203 :  0.954359413058 
+
+SSIM for Image # 204 :  0.943999444159 
+
+SSIM for Image # 205 :  0.950534268497 
+
+SSIM for Image # 206 :  0.954717604053 
+
+SSIM for Image # 207 :  0.942604866334 
+
+SSIM for Image # 208 :  0.951937261644 
+
+SSIM for Image # 209 :  0.955174551721 
+
+SSIM for Image # 210 :  0.942678120256 
+
+SSIM for Image # 211 :  0.95013476071 
+
+SSIM for Image # 212 :  0.943305759504 
+
+SSIM for Image # 213 :  0.954604990195 
+
+SSIM for Image # 214 :  0.94346177455 
+
+SSIM for Image # 215 :  0.949025036976 
+
+SSIM for Image # 216 :  0.953474170217 
+
+SSIM for Image # 217 :  0.941772037011 
+
+SSIM for Image # 218 :  0.948297872018 
+
+SSIM for Image # 219 :  0.952772249127 
+
+SSIM for Image # 220 :  0.938361384092 
+
+SSIM for Image # 221 :  0.948078878026 
+
+SSIM for Image # 222 :  0.952202022752 
+
+SSIM for Image # 223 :  1.0 
+
+SSIM for Image # 224 :  0.914495415719 
+
+SSIM for Image # 225 :  0.940391105785 
+
+SSIM for Image # 226 :  0.963177478174 
+
+SSIM for Image # 227 :  0.951820188767 
+
+SSIM for Image # 228 :  0.94053556238 
+
+SSIM for Image # 229 :  0.947269743247 
+
+SSIM for Image # 230 :  0.952199484324 
+
+SSIM for Image # 231 :  0.940258652002 
+
+SSIM for Image # 232 :  0.949740966095 
+
+SSIM for Image # 233 :  0.952186871893 
+
+SSIM for Image # 234 :  0.941550285532 
+
+SSIM for Image # 235 :  0.965192980874 
+
+SSIM for Image # 236 :  0.947627211387 
+
+SSIM for Image # 237 :  0.951747044327 
+
+SSIM for Image # 238 :  0.940496476499 
+
+SSIM for Image # 239 :  0.94649469199 
+
+SSIM for Image # 240 :  0.950728399051 
+
+SSIM for Image # 241 :  0.940139532477 
+
+SSIM for Image # 242 :  0.948330562972 
+
+SSIM for Image # 243 :  0.951616412994 
+
+SSIM for Image # 244 :  0.94071345514 
+
+SSIM for Image # 245 :  0.946747118658 
+
+SSIM for Image # 246 :  0.963508079586 
+
+SSIM for Image # 247 :  0.950410232562 
+
+SSIM for Image # 248 :  0.938025472822 
+
+SSIM for Image # 249 :  0.945032234596 
+
+SSIM for Image # 250 :  0.949460782024 
+
+SSIM for Image # 251 :  0.938899288722 
+
+SSIM for Image # 252 :  0.941525172214 
+
+SSIM for Image # 253 :  0.947508672774 
+
+SSIM for Image # 254 :  0.936449770386 
+
+SSIM for Image # 255 :  0.942262179242 
+
+SSIM for Image # 256 :  0.948618736431 
+
+SSIM for Image # 257 :  0.947601330089 
+
+SSIM for Image # 258 :  0.934916102792 
+
+SSIM for Image # 259 :  0.946188824241 
+
+SSIM for Image # 260 :  0.948925780707 
+
+SSIM for Image # 261 :  0.938333315671 
+
+SSIM for Image # 262 :  0.943916334921 
+
+SSIM for Image # 263 :  0.948694215892 
+
+SSIM for Image # 264 :  0.937784186307 
+
+SSIM for Image # 265 :  0.943922009786 
+
+SSIM for Image # 266 :  0.948262477094 
+
+SSIM for Image # 267 :  0.936850478883 
+
+SSIM for Image # 268 :  0.959587904442 
+
+SSIM for Image # 269 :  0.94426000427 
+
+SSIM for Image # 270 :  0.948799920533 
+
+SSIM for Image # 271 :  0.938740198844 
+
+SSIM for Image # 272 :  0.942983371432 
+
+SSIM for Image # 273 :  0.947389154663 
+
+SSIM for Image # 274 :  0.934293349336 
+
+SSIM for Image # 275 :  0.943658631802 
+
+SSIM for Image # 276 :  0.94663243788 
+
+SSIM for Image # 277 :  0.936281089394 
+
+SSIM for Image # 278 :  0.941383057988 
+
+SSIM for Image # 279 :  0.963234066168 
+
+SSIM for Image # 280 :  0.945164071391 
+
+SSIM for Image # 281 :  0.934695912084 
+
+SSIM for Image # 282 :  0.940955226879 
+
+SSIM for Image # 283 :  0.946288570879 
+
+SSIM for Image # 284 :  0.932638693421 
+
+SSIM for Image # 285 :  0.942550917218 
+
+SSIM for Image # 286 :  0.945802666562 
+
+SSIM for Image # 287 :  0.934627885561 
+
+SSIM for Image # 288 :  0.941160628825 
+
+SSIM for Image # 289 :  0.946149075948 
+
+SSIM for Image # 290 :  0.950028997071 
+
+SSIM for Image # 291 :  0.935284545748 
+
+SSIM for Image # 292 :  0.942938866895 
+
+SSIM for Image # 293 :  0.946294224698 
+
+SSIM for Image # 294 :  0.934749982212 
+
+SSIM for Image # 295 :  0.9410793629 
+
+SSIM for Image # 296 :  0.945848127936 
+
+SSIM for Image # 297 :  0.935078940666 
+
+SSIM for Image # 298 :  0.940370482239 
+
+SSIM for Image # 299 :  0.945065470301 
+
+SSIM for Image # 300 :  0.932678056255 
+
+SSIM for Image # 301 :  0.95955455955 
+
+SSIM for Image # 302 :  0.939510091399 
+
+SSIM for Image # 303 :  0.94394609364 
+
+SSIM for Image # 304 :  0.932962505446 
+
+SSIM for Image # 305 :  0.939146636237 
+
+SSIM for Image # 306 :  0.944110380363 
+
+SSIM for Image # 307 :  0.933770389162 
+
+SSIM for Image # 308 :  0.94473404107 
+
+SSIM for Image # 309 :  0.934641714449 
+
+SSIM for Image # 310 :  0.938370786794 
+
+SSIM for Image # 311 :  0.945871668877 
+
+SSIM for Image # 312 :  0.962591757862 
+
+SSIM for Image # 313 :  0.930126767077 
+
+SSIM for Image # 314 :  0.944309266921 
+
+SSIM for Image # 315 :  0.929204230554 
+
+SSIM for Image # 316 :  0.940052236651 
+
+SSIM for Image # 317 :  0.94293156935 
+
+SSIM for Image # 318 :  0.931738407248 
+
+SSIM for Image # 319 :  0.941536195282 
+
+SSIM for Image # 320 :  0.932134293795 
+
+SSIM for Image # 321 :  0.936229455289 
+
+SSIM for Image # 322 :  0.943729850776 
+
+SSIM for Image # 323 :  0.949763708701 
+
+SSIM for Image # 324 :  0.92900523336 
+
+SSIM for Image # 325 :  0.955558397974 
+
+SSIM for Image # 326 :  0.94472416294 
+
+SSIM for Image # 327 :  0.933580508039 
+
+SSIM for Image # 328 :  0.938766164911 
+
+SSIM for Image # 329 :  0.945825764536 
+
+SSIM for Image # 330 :  0.930147815311 
+
+SSIM for Image # 331 :  0.940568170359 
+
+SSIM for Image # 332 :  0.943380037204 
+
+SSIM for Image # 333 :  0.931422659215 
+
+SSIM for Image # 334 :  1.0 
+
+SSIM for Image # 335 :  0.959028372364 
+
+SSIM for Image # 336 :  0.93637613679 
+
+SSIM for Image # 337 :  0.944036793789 
+
+SSIM for Image # 338 :  0.927942612544 
+
+SSIM for Image # 339 :  0.938967055632 
+
+SSIM for Image # 340 :  0.942909232162 
+
+SSIM for Image # 341 :  0.930269523086 
+
+SSIM for Image # 342 :  0.93693389855 
+
+SSIM for Image # 343 :  0.940478346949 
+
+SSIM for Image # 344 :  0.930236036471 
+
+SSIM for Image # 345 :  0.934817318292 
+
+SSIM for Image # 346 :  0.9619899912 
+
+SSIM for Image # 347 :  0.943196786336 
+
+SSIM for Image # 348 :  0.927068531472 
+
+SSIM for Image # 349 :  0.937177959946 
+
+SSIM for Image # 350 :  0.940460487318 
+
+SSIM for Image # 351 :  0.92829936924 
+
+SSIM for Image # 352 :  0.932982332932 
+
+SSIM for Image # 353 :  0.94140421848 
+
+SSIM for Image # 354 :  0.922670472754 
+
+SSIM for Image # 355 :  0.934357549994 
+
+SSIM for Image # 356 :  0.93773183282 
+
+SSIM for Image # 357 :  0.949891011361 
+
+SSIM for Image # 358 :  0.922291920398 
+
+SSIM for Image # 359 :  0.937970138389 
+
+SSIM for Image # 360 :  0.932329766446 
+
+SSIM for Image # 361 :  0.918317691818 
+
+SSIM for Image # 362 :  0.923278119593 
+
+SSIM for Image # 363 :  0.932563954906 
+
+SSIM for Image # 364 :  0.915302916653 
+
+SSIM for Image # 365 :  0.92502674094 
+
+SSIM for Image # 366 :  0.931287457044 
+
+SSIM for Image # 367 :  0.917438233198 
+
+SSIM for Image # 368 :  0.95840289011 
+
+SSIM for Image # 369 :  0.922806849021 
+
+SSIM for Image # 370 :  0.93180898149 
+
+SSIM for Image # 371 :  0.915134860771 
+
+SSIM for Image # 372 :  0.924687409093 
+
+SSIM for Image # 373 :  0.931393015486 
+
+SSIM for Image # 374 :  0.916259664577 
+
+SSIM for Image # 375 :  0.927510094775 
+
+SSIM for Image # 376 :  0.932414789077 
+
+SSIM for Image # 377 :  0.919883666121 
+
+SSIM for Image # 378 :  0.926522848488 
+
+SSIM for Image # 379 :  0.961939423445 
+
+SSIM for Image # 380 :  0.93446569362 
+
+SSIM for Image # 381 :  0.914967177127 
+
+SSIM for Image # 382 :  0.928924037376 
+
+SSIM for Image # 383 :  0.932939632034 
+
+SSIM for Image # 384 :  0.920646176965 
+
+SSIM for Image # 385 :  0.936080058628 
+
+SSIM for Image # 386 :  0.928415087899 
+
+SSIM for Image # 387 :  0.932112530448 
+
+SSIM for Image # 388 :  0.938666314769 
+
+SSIM for Image # 389 :  0.921731998377 
+
+SSIM for Image # 390 :  0.948374492679 
+
+SSIM for Image # 391 :  0.93549475216 
+
+SSIM for Image # 392 :  0.919200800033 
+
+SSIM for Image # 393 :  0.928861422003 
+
+SSIM for Image # 394 :  0.932484881829 
+
+SSIM for Image # 395 :  0.919451713749 
+
+SSIM for Image # 396 :  0.930031068756 
+
+SSIM for Image # 397 :  0.918995057595 
+
+SSIM for Image # 398 :  0.924019007967 
+
+SSIM for Image # 399 :  0.933987965191 
+
+SSIM for Image # 400 :  0.916131900684 
+
+SSIM for Image # 401 :  0.96179054744 
+
+SSIM for Image # 402 :  0.92670427037 
+
+SSIM for Image # 403 :  0.931185254382 
+
+SSIM for Image # 404 :  0.917754380732 
+
+SSIM for Image # 405 :  0.923849706443 
+
+SSIM for Image # 406 :  0.932397014025 
+
+SSIM for Image # 407 :  0.912174979805 
+
+SSIM for Image # 408 :  0.926365475634 
+
+SSIM for Image # 409 :  0.929743477407 
+
+SSIM for Image # 410 :  0.916397920527 
+
+SSIM for Image # 411 :  0.922524738274 
+
+SSIM for Image # 412 :  0.963930411963 
+
+SSIM for Image # 413 :  0.932176187054 
+
+SSIM for Image # 414 :  0.912467240071 
+
+SSIM for Image # 415 :  0.925862519991 
+
+SSIM for Image # 416 :  0.929773236711 
+
+SSIM for Image # 417 :  0.917342236196 
+
+SSIM for Image # 418 :  0.922487191922 
+
+SSIM for Image # 419 :  0.932463291109 
+
+SSIM for Image # 420 :  0.914448621438 
+
+SSIM for Image # 421 :  0.924892620692 
+
+SSIM for Image # 422 :  0.928628685171 
+
+SSIM for Image # 423 :  0.948538548164 
+
+SSIM for Image # 424 :  0.915537107347 
+
+SSIM for Image # 425 :  0.918874593567 
+
+SSIM for Image # 426 :  0.931610874563 
+
+SSIM for Image # 427 :  0.912762196177 
+
+SSIM for Image # 428 :  0.924539226472 
+
+SSIM for Image # 429 :  0.928500836088 
+
+SSIM for Image # 430 :  0.915010192322 
+
+SSIM for Image # 431 :  0.920277350755 
+
+SSIM for Image # 432 :  0.931089460683 
+
+SSIM for Image # 433 :  0.909788859633 
+
+SSIM for Image # 434 :  0.960845297408 
+
+SSIM for Image # 435 :  0.923547150256 
+
+SSIM for Image # 436 :  0.928185133135 
+
+SSIM for Image # 437 :  0.914383087345 
+
+SSIM for Image # 438 :  0.920865305568 
+
+SSIM for Image # 439 :  0.930728603507 
+
+SSIM for Image # 440 :  0.910699692691 
+
+SSIM for Image # 441 :  0.922706554029 
+
+SSIM for Image # 442 :  0.928163428996 
+
+SSIM for Image # 443 :  0.914314379406 
+
+SSIM for Image # 444 :  0.920925181983 
+
+SSIM for Image # 445 :  1.0 
+
+SSIM for Image # 446 :  0.962008616085 
+
+SSIM for Image # 447 :  0.930803977142 
+
+SSIM for Image # 448 :  0.911831077391 
+
+SSIM for Image # 449 :  0.922875922707 
+
+SSIM for Image # 450 :  0.927631003581 
+
+SSIM for Image # 451 :  0.91413668709 
+
+SSIM for Image # 452 :  0.921025684852 
+
+SSIM for Image # 453 :  0.932054402749 
+
+SSIM for Image # 454 :  0.91197942418 
+
+SSIM for Image # 455 :  0.924148762218 
+
+SSIM for Image # 456 :  0.928693076334 
+
+SSIM for Image # 457 :  0.947395949301 
+
+SSIM for Image # 458 :  0.91536395591 
+
+SSIM for Image # 459 :  0.940574825371 
+
+SSIM for Image # 460 :  0.910899131092 
+
+SSIM for Image # 461 :  0.923691814599 
+
+SSIM for Image # 462 :  0.927089198983 
+
+SSIM for Image # 463 :  0.914637782899 
+
+SSIM for Image # 464 :  0.920303227869 
+
+SSIM for Image # 465 :  0.930661035052 
+
+SSIM for Image # 466 :  0.909871094873 
+
+SSIM for Image # 467 :  0.920806659114 
+
+SSIM for Image # 468 :  0.957941215267 
+
+SSIM for Image # 469 :  0.928328717922 
+
+SSIM for Image # 470 :  0.914588443646 
+
+SSIM for Image # 471 :  0.920061291895 
+
+SSIM for Image # 472 :  0.930705596747 
+
+SSIM for Image # 473 :  0.911572874914 
+
+SSIM for Image # 474 :  0.928166051486 
+
+SSIM for Image # 475 :  0.913302989536 
+
+SSIM for Image # 476 :  0.926278746363 
+
+SSIM for Image # 477 :  0.915880058721 
+
+SSIM for Image # 478 :  0.927600229985 
+
+SSIM for Image # 479 :  0.961862340826 
+
+SSIM for Image # 480 :  0.916797370647 
+
+SSIM for Image # 481 :  0.925859278959 
+
+SSIM for Image # 482 :  0.915956720739 
+
+SSIM for Image # 483 :  0.927032880332 
+
+SSIM for Image # 484 :  0.914650648484 
+
+SSIM for Image # 485 :  0.917246030288 
+
+SSIM for Image # 486 :  0.928665871171 
+
+SSIM for Image # 487 :  0.907394425374 
+
+SSIM for Image # 488 :  0.920574069659 
+
+SSIM for Image # 489 :  0.923643584429 
+
+SSIM for Image # 490 :  0.949254606488 
+
+SSIM for Image # 491 :  0.906080100906 
+
+SSIM for Image # 492 :  0.958526616845 
+
+SSIM for Image # 493 :  0.936565233762 
+
+SSIM for Image # 494 :  0.925353655868 
+
+SSIM for Image # 495 :  0.935220835953 
+
+SSIM for Image # 496 :  0.924530253383 
+
+SSIM for Image # 497 :  0.927966805458 
+
+SSIM for Image # 498 :  0.93771571227 
+
+SSIM for Image # 499 :  0.91680219742 
+
+SSIM for Image # 500 :  0.934192575217 
+
+SSIM for Image # 501 :  0.900441640033 
+
+SSIM for Image # 502 :  0.917695064761 
+
+SSIM for Image # 503 :  0.936195936812 
+
+SSIM for Image # 504 :  0.918387581617 
+
+SSIM for Image # 505 :  0.929096802461 
+
+SSIM for Image # 506 :  0.932358509194 
+
+SSIM for Image # 507 :  0.919573990383 
+
+SSIM for Image # 508 :  0.932230897089 
+
+SSIM for Image # 509 :  0.933469885399 
+
+SSIM for Image # 510 :  0.92451144644 
+
+SSIM for Image # 511 :  0.929994082653 
+
+SSIM for Image # 512 :  0.916329701344 
+
+SSIM for Image # 513 :  0.935690263945 
+
+SSIM for Image # 514 :  0.920001537437 
+
+SSIM for Image # 515 :  0.93155703801 
+
+SSIM for Image # 516 :  0.934136862988 
+
+SSIM for Image # 517 :  0.923370997702 
+
+SSIM for Image # 518 :  0.925996721413 
+
+SSIM for Image # 519 :  0.932737039018 
+
+SSIM for Image # 520 :  0.915212660481 
+
+SSIM for Image # 521 :  0.92668182683 
+
+SSIM for Image # 522 :  0.931365230902 
+
+SSIM for Image # 523 :  0.879122930127 
+
+SSIM for Image # 524 :  0.9204452603 
+
+SSIM for Image # 525 :  0.93088673547 
+
+SSIM for Image # 526 :  0.934512883113 
+
+SSIM for Image # 527 :  0.925629035878 
+
+SSIM for Image # 528 :  0.93537932191 
+
+SSIM for Image # 529 :  0.927286536971 
+
+SSIM for Image # 530 :  0.937248770322 
+
+SSIM for Image # 531 :  0.929580436135 
+
+SSIM for Image # 532 :  0.939115845531 
+
+SSIM for Image # 533 :  0.931974412769 
+
+SSIM for Image # 534 :  0.900775196543 
+
+SSIM for Image # 535 :  0.936924283688 
+
+SSIM for Image # 536 :  0.945097441111 
+
+SSIM for Image # 537 :  0.934813354772 
+
+SSIM for Image # 538 :  0.943790928046 
+
+SSIM for Image # 539 :  0.949285445846 
+
+SSIM for Image # 540 :  0.940851629735 
+
+SSIM for Image # 541 :  0.952878121495 
+
+SSIM for Image # 542 :  0.9612543174 
+
+SSIM for Image # 543 :  0.958442989325 
+
+SSIM for Image # 544 :  0.964479365517 
+
+SSIM for Image # 545 :  0.918021900437 
+
+SSIM for Image # 546 :  0.966061212395 
+
+SSIM for Image # 547 :  0.95967824013 
+
+SSIM for Image # 548 :  0.965763472019 
+
+SSIM for Image # 549 :  0.968226703756 
+
+SSIM for Image # 550 :  0.961915134862 
+
+SSIM for Image # 551 :  0.965514187845 
+
+SSIM for Image # 552 :  0.968415919876 
+
+SSIM for Image # 553 :  0.961708423321 
+
+SSIM for Image # 554 :  0.96576263025 
+
+SSIM for Image # 555 :  0.969204975497 
+
+SSIM for Image # 556 :  1.0 
+
+SSIM for Image # 557 :  0.887499775534 
+
+SSIM for Image # 558 :  0.962313528551 
+
+SSIM for Image # 559 :  0.968362867574 
+
+SSIM for Image # 560 :  0.970393518889 
+
+SSIM for Image # 561 :  0.965139680765 
+
+SSIM for Image # 562 :  0.968356084092 
+
+SSIM for Image # 563 :  0.969171789568 
+
+SSIM for Image # 564 :  0.962304477555 
+
+SSIM for Image # 565 :  0.964795817433 
+
+SSIM for Image # 566 :  0.967274124145 
+
+SSIM for Image # 567 :  0.959649188581 
+
+SSIM for Image # 568 :  0.902534214444 
+
+SSIM for Image # 569 :  0.966313876272 
+
+SSIM for Image # 570 :  0.968631024648 
+
+SSIM for Image # 571 :  0.962515329907 
+
+SSIM for Image # 572 :  0.966660975955 
+
+SSIM for Image # 573 :  0.967778347959 
+
+SSIM for Image # 574 :  0.960318096427 
+
+SSIM for Image # 575 :  0.965604948209 
+
+SSIM for Image # 576 :  0.966779025022 
+
+SSIM for Image # 577 :  0.95932991624 
+
+SSIM for Image # 578 :  0.964176099559 
+
+SSIM for Image # 579 :  0.919302768021 
+
+SSIM for Image # 580 :  0.966802216149 
+
+SSIM for Image # 581 :  0.959630151072 
+
+SSIM for Image # 582 :  0.964626305196 
+
+SSIM for Image # 583 :  0.966496897683 
+
+SSIM for Image # 584 :  0.959916938405 
+
+SSIM for Image # 585 :  0.966395434439 
+
+SSIM for Image # 586 :  0.969043474555 
+
+SSIM for Image # 587 :  0.962681317473 
+
+SSIM for Image # 588 :  0.966776004299 
+
+SSIM for Image # 589 :  0.969000172581 
+
+SSIM for Image # 590 :  0.890728261983 
+
+SSIM for Image # 591 :  0.962548135076 
+
+SSIM for Image # 592 :  0.973372856893 
+
+SSIM for Image # 593 :  0.968704054312 
+
+SSIM for Image # 594 :  0.959511616231 
+
+SSIM for Image # 595 :  0.964844489779 
+
+SSIM for Image # 596 :  0.967122445795 
+
+SSIM for Image # 597 :  0.959311418924 
+
+SSIM for Image # 598 :  0.965114814139 
+
+SSIM for Image # 599 :  0.967292168716 
+
+SSIM for Image # 600 :  0.958989568889 
+
+SSIM for Image # 601 :  0.904591684957 
+
+SSIM for Image # 602 :  0.964193298979 
+
+SSIM for Image # 603 :  0.966202035831 
+
+SSIM for Image # 604 :  0.959892691328 
+
+SSIM for Image # 605 :  0.964503618751 
+
+SSIM for Image # 606 :  0.967796822625 
+
+SSIM for Image # 607 :  0.961180275708 
+
+SSIM for Image # 608 :  0.966514442308 
+
+SSIM for Image # 609 :  0.968118165784 
+
+SSIM for Image # 610 :  0.961318513957 
+
+SSIM for Image # 611 :  0.966499950807 
+
+SSIM for Image # 612 :  0.920061068743 
+
+SSIM for Image # 613 :  0.956936893684 
+
+SSIM for Image # 614 :  0.963069772664 
+
+SSIM for Image # 615 :  0.965175149882 
+
+SSIM for Image # 616 :  0.959181869166 
+
+SSIM for Image # 617 :  0.965588007965 
+
+SSIM for Image # 618 :  0.965491473235 
+
+SSIM for Image # 619 :  0.957507707737 
+
+SSIM for Image # 620 :  0.96181564164 
+
+SSIM for Image # 621 :  0.963276974642 
+
+SSIM for Image # 622 :  0.955977390508 
+
+SSIM for Image # 623 :  0.890259769811 
+
+SSIM for Image # 624 :  0.961606929819 
+
+SSIM for Image # 625 :  0.972472894103 
+
+SSIM for Image # 626 :  0.966935509499 
+
+SSIM for Image # 627 :  0.968248501325 
+
+SSIM for Image # 628 :  0.962723539436 
+
+SSIM for Image # 629 :  0.967458852704 
+
+SSIM for Image # 630 :  0.969089056321 
+
+SSIM for Image # 631 :  0.962326995412 
+
+SSIM for Image # 632 :  0.97905757358 
+
+SSIM for Image # 633 :  0.979410877395 
+
+SSIM for Image # 634 :  0.904718523752 
+
+SSIM for Image # 635 :  0.977590565357 
+
+SSIM for Image # 636 :  0.975439464182 
+
+SSIM for Image # 637 :  0.978739006643 
+
+SSIM for Image # 638 :  0.976803482897 
+
+SSIM for Image # 639 :  0.975276827183 
+
+SSIM for Image # 640 :  0.981400554016 
+
+SSIM for Image # 641 :  0.978850596964 
+
+SSIM for Image # 642 :  0.977806704136 
+
+SSIM for Image # 643 :  0.977213079382 
+
+SSIM for Image # 644 :  0.974881976898 
+
+SSIM for Image # 645 :  0.920624918019 
+
+SSIM for Image # 646 :  0.974252044878 
+
+SSIM for Image # 647 :  0.980943245782 
+
+SSIM for Image # 648 :  0.983921028165 
+
+SSIM for Image # 649 :  0.977450983684 
+
+SSIM for Image # 650 :  0.975524449617 
+
+SSIM for Image # 651 :  0.972592813919 
+
+SSIM for Image # 652 :  0.979949267069 
+
+SSIM for Image # 653 :  0.979914029618 
+
+SSIM for Image # 654 :  0.979315413049 
+
+SSIM for Image # 655 :  0.982380919236 
+
+SSIM for Image # 656 :  0.890726598069 
+
+SSIM for Image # 657 :  0.979220680968 
+
+SSIM for Image # 658 :  0.978570731723 
+
+SSIM for Image # 659 :  0.983854012767 
+
+SSIM for Image # 660 :  0.976218074427 
+
+SSIM for Image # 661 :  0.97419952528 
+
+SSIM for Image # 662 :  0.976517190068 
+
+SSIM for Image # 663 :  0.980524967345 
+
+SSIM for Image # 664 :  0.983526649046 
+
+SSIM for Image # 665 :  0.97998687904 
+
+SSIM for Image # 666 :  0.971885017485 
+
+SSIM for Image # 667 :  1.0 
+
+SSIM for Image # 668 :  0.905159036841 
+
+SSIM for Image # 669 :  0.97358049457 
+
+SSIM for Image # 670 :  0.97731913402 
+
+SSIM for Image # 671 :  0.974944342091 
+
+SSIM for Image # 672 :  0.979686461217 
+
+SSIM for Image # 673 :  0.979490518684 
+
+SSIM for Image # 674 :  0.978321970505 
+
+SSIM for Image # 675 :  0.98318214746 
+
+SSIM for Image # 676 :  0.980807485256 
+
+SSIM for Image # 677 :  0.974204510596 
+
+SSIM for Image # 678 :  0.976397561149 
+
+SSIM for Image # 679 :  0.921197293276 
+
+SSIM for Image # 680 :  0.978152966903 
+
+SSIM for Image # 681 :  0.982712742379 
+
+SSIM for Image # 682 :  0.976021248967 
+
+SSIM for Image # 683 :  0.979031093687 
+
+SSIM for Image # 684 :  0.981154727487 
+
+SSIM for Image # 685 :  0.97428385883 
+
+SSIM for Image # 686 :  0.975138315617 
+
+SSIM for Image # 687 :  0.97457047772 
+
+SSIM for Image # 688 :  0.970434072347 
+
+SSIM for Image # 689 :  0.976555149277 
+
+SSIM for Image # 690 :  0.890338591226 
+
+SSIM for Image # 691 :  0.983598282438 
+
+SSIM for Image # 692 :  0.978955867022 
+
+SSIM for Image # 693 :  0.976475713707 
+
+SSIM for Image # 694 :  0.97597935653 
+
+SSIM for Image # 695 :  0.979580545712 
+
+SSIM for Image # 696 :  0.983183873324 
+
+SSIM for Image # 697 :  0.980283391636 
+
+SSIM for Image # 698 :  0.973351244951 
+
+SSIM for Image # 699 :  0.980843857316 
+
+SSIM for Image # 700 :  0.978573280864 
+
+SSIM for Image # 701 :  0.905754767475 
+
+SSIM for Image # 702 :  0.977531916661 
+
+SSIM for Image # 703 :  0.977238183618 
+
+SSIM for Image # 704 :  0.976572072052 
+
+SSIM for Image # 705 :  0.975192216329 
+
+SSIM for Image # 706 :  0.980860782499 
+
+SSIM for Image # 707 :  0.984230568699 
+
+SSIM for Image # 708 :  0.977686744307 
+
+SSIM for Image # 709 :  0.975209420071 
+
+SSIM for Image # 710 :  0.97572918982 
+
+SSIM for Image # 711 :  0.976502695223 
+
+SSIM for Image # 712 :  0.922211886067 
+
+SSIM for Image # 713 :  0.982191083274 
+
+SSIM for Image # 714 :  0.980257045907 
+
+SSIM for Image # 715 :  0.97374792911 
+
+SSIM for Image # 716 :  0.980503113372 
+
+SSIM for Image # 717 :  0.976753257857 
+
+SSIM for Image # 718 :  0.97653582866 
+
+SSIM for Image # 719 :  0.974465109447 
+
+SSIM for Image # 720 :  0.969581107707 
+
+SSIM for Image # 721 :  0.972397367219 
+
+SSIM for Image # 722 :  0.975056375023 
+
+SSIM for Image # 723 :  0.892682570694 
+
+SSIM for Image # 724 :  0.982458410917 
+
+SSIM for Image # 725 :  0.981937544534 
+
+SSIM for Image # 726 :  0.976908259704 
+
+SSIM for Image # 727 :  0.975670635192 
+
+SSIM for Image # 728 :  0.973766419457 
+
+SSIM for Image # 729 :  0.981473372325 
+
+SSIM for Image # 730 :  0.982641134055 
+
+SSIM for Image # 731 :  0.972531826452 
+
+SSIM for Image # 732 :  0.979265457272 
+
+SSIM for Image # 733 :  0.977354674539 
+
+SSIM for Image # 734 :  0.906103791294 
+
+SSIM for Image # 735 :  0.977017271236 
+
+SSIM for Image # 736 :  0.974967230552 
+
+SSIM for Image # 737 :  0.978491929308 
+
+SSIM for Image # 738 :  0.975526380139 
+
+SSIM for Image # 739 :  0.971942387872 
+
+SSIM for Image # 740 :  0.980091250127 
+
+SSIM for Image # 741 :  0.983618265464 
+
+SSIM for Image # 742 :  0.976623956508 
+
+SSIM for Image # 743 :  0.976641249353 
+
+SSIM for Image # 744 :  0.974618392619 
+
+SSIM for Image # 745 :  0.923264378576 
+
+SSIM for Image # 746 :  0.952700113394 
+
+SSIM for Image # 747 :  0.933253091729 
+
+SSIM for Image # 748 :  0.93850558031 
+
+SSIM for Image # 749 :  0.930374429801 
+
+SSIM for Image # 750 :  0.930592954381 
+
+SSIM for Image # 751 :  0.934937513197 
+
+SSIM for Image # 752 :  0.923088595557 
+
+SSIM for Image # 753 :  0.930210286609 
+
+SSIM for Image # 754 :  0.937867680357 
+
+SSIM for Image # 755 :  0.923168446691 
+
+SSIM for Image # 756 :  0.895510423643 
+
+SSIM for Image # 757 :  0.936356748805 
+
+SSIM for Image # 758 :  0.955089727647 
+
+SSIM for Image # 759 :  0.938395742104 
+
+SSIM for Image # 760 :  0.947073099044 
+
+SSIM for Image # 761 :  0.936766731447 
+
+SSIM for Image # 762 :  0.943145911765 
+
+SSIM for Image # 763 :  0.94927693858 
+
+SSIM for Image # 764 :  0.936158953058 
+
+SSIM for Image # 765 :  0.941294446845 
+
+SSIM for Image # 766 :  0.949434656296 
+
+SSIM for Image # 767 :  0.905071336934 
+
+SSIM for Image # 768 :  0.937872062878 
+
+SSIM for Image # 769 :  0.945798012671 
+
+SSIM for Image # 770 :  0.953198617267 
+
+SSIM for Image # 771 :  0.944562110854 
+
+SSIM for Image # 772 :  0.954494019121 
+
+SSIM for Image # 773 :  0.961549471879 
+
+SSIM for Image # 774 :  0.952820363855 
+
+SSIM for Image # 775 :  0.96359182004 
+
+SSIM for Image # 776 :  0.95725746829 
+
+SSIM for Image # 777 :  0.964858351622 
+
+SSIM for Image # 778 :  1.0 
+
+SSIM for Image # 779 :  0.921432719495 
+
+SSIM for Image # 780 :  0.95718566359 
+
+SSIM for Image # 781 :  0.96335539602 
+
+SSIM for Image # 782 :  0.970592691857 
+
+SSIM for Image # 783 :  0.967031637505 
+
+SSIM for Image # 784 :  0.972957937834 
+
+SSIM for Image # 785 :  0.976838037961 
+
+SSIM for Image # 786 :  0.976364024001 
+
+SSIM for Image # 787 :  0.979005257494 
+
+SSIM for Image # 788 :  0.980238614577 
+
+SSIM for Image # 789 :  0.976401580396 
+
+SSIM for Image # 790 :  0.885163438845 
+
+SSIM for Image # 791 :  0.977067798902 
+
+SSIM for Image # 792 :  0.975604889651 
+
+SSIM for Image # 793 :  0.962493154697 
+
+SSIM for Image # 794 :  0.964823205642 
+
+SSIM for Image # 795 :  0.965726045483 
+
+SSIM for Image # 796 :  0.961780373294 
+
+SSIM for Image # 797 :  0.964694375574 
+
+SSIM for Image # 798 :  0.963852022562 
+
+SSIM for Image # 799 :  0.957882777153 
+
+SSIM for Image # 800 :  0.960853430666 
+
+SSIM for Image # 801 :  0.905773615226 
+
+SSIM for Image # 802 :  0.956119560688 
+
+SSIM for Image # 803 :  0.973564857154 
+
+SSIM for Image # 804 :  0.973338014831 
+
+SSIM for Image # 805 :  0.968897195375 
+
+SSIM for Image # 806 :  0.971641312727 
+
+SSIM for Image # 807 :  0.968176558077 
+
+SSIM for Image # 808 :  0.974797237672 
+
+SSIM for Image # 809 :  0.969803658458 
+
+SSIM for Image # 810 :  0.971801413902 
+
+SSIM for Image # 811 :  0.972388672143 
+
+SSIM for Image # 812 :  0.921403724383 
+
+SSIM for Image # 813 :  0.967615432107 
+
+SSIM for Image # 814 :  0.970005798028 
+
+SSIM for Image # 815 :  0.97137563594 
+
+SSIM for Image # 816 :  0.967395813642 
+
+SSIM for Image # 817 :  0.969933643757 
+
+SSIM for Image # 818 :  0.972786292235 
+
+SSIM for Image # 819 :  0.967122616728 
+
+SSIM for Image # 820 :  0.972173468114 
+
+SSIM for Image # 821 :  0.971924083958 
+
+SSIM for Image # 822 :  0.966818734298 
+
+SSIM for Image # 823 :  0.891212248301 
+
+SSIM for Image # 824 :  0.971153622232 
+
+SSIM for Image # 825 :  0.972270916709 
+
+SSIM for Image # 826 :  0.966531832026 
+
+SSIM for Image # 827 :  0.970487320433 
+
+SSIM for Image # 828 :  0.971824981581 
+
+SSIM for Image # 829 :  0.965519551136 
+
+SSIM for Image # 830 :  0.971352149983 
+
+SSIM for Image # 831 :  0.971947010361 
+
+SSIM for Image # 832 :  0.966679256571 
+
+SSIM for Image # 833 :  0.971606601267 
+
+SSIM for Image # 834 :  0.905705328479 
+
+SSIM for Image # 835 :  0.972012295011 
+
+SSIM for Image # 836 :  0.966942128227 
+
+SSIM for Image # 837 :  0.970786259638 
+
+SSIM for Image # 838 :  0.971570203706 
+
+SSIM for Image # 839 :  0.966635069294 
+
+SSIM for Image # 840 :  0.971247243273 
+
+SSIM for Image # 841 :  0.971855686086 
+
+SSIM for Image # 842 :  0.96712348009 
+
+SSIM for Image # 843 :  0.971303363181 
+
+SSIM for Image # 844 :  0.971597231162 
+
+SSIM for Image # 845 :  0.92193011293 
+
+SSIM for Image # 846 :  0.966746534694 
+
+SSIM for Image # 847 :  0.970817340133 
+
+SSIM for Image # 848 :  0.971306642543 
+
+SSIM for Image # 849 :  0.966308929539 
+
+SSIM for Image # 850 :  0.971485000262 
+
+SSIM for Image # 851 :  0.96640690998 
+
+SSIM for Image # 852 :  0.974981679251 
+
+SSIM for Image # 853 :  0.979150337436 
+
+SSIM for Image # 854 :  0.974948443545 
+
+SSIM for Image # 855 :  0.978357086085 
+
+SSIM for Image # 856 :  0.891057821894 
+
+SSIM for Image # 857 :  0.979951551475 
+
+SSIM for Image # 858 :  0.974695486013 
+
+SSIM for Image # 859 :  0.977329091484 
+
+SSIM for Image # 860 :  0.979825716206 
+
+SSIM for Image # 861 :  0.974701583742 
+
+SSIM for Image # 862 :  0.978951047075 
+
+SSIM for Image # 863 :  0.973446759765 
+
+SSIM for Image # 864 :  0.976841690589 
+
+SSIM for Image # 865 :  0.967365530778 
+
+SSIM for Image # 866 :  0.970867096733 
+
+SSIM for Image # 867 :  0.907462283593 
+
+SSIM for Image # 868 :  0.961258186447 
+
+SSIM for Image # 869 :  0.965906134273 
+
+SSIM for Image # 870 :  0.96817472747 
+
+SSIM for Image # 871 :  0.957375128569 
+
+SSIM for Image # 872 :  0.963910928991 
+
+SSIM for Image # 873 :  0.965522458499 
+
+SSIM for Image # 874 :  0.956740858597 
+
+SSIM for Image # 875 :  0.962833452658 
+
+SSIM for Image # 876 :  0.966009762061 
+
+SSIM for Image # 877 :  0.954273624501 
+
+SSIM for Image # 878 :  0.923815704347 
+
+SSIM for Image # 879 :  0.964367430768 
+
+SSIM for Image # 880 :  0.949198833035 
+
+SSIM for Image # 881 :  0.96318576346 
+
+SSIM for Image # 882 :  0.951334376167 
+
+SSIM for Image # 883 :  0.96188573519 
+
+SSIM for Image # 884 :  0.964797554322 
+
+SSIM for Image # 885 :  0.951524488037 
+
+SSIM for Image # 886 :  0.960483786773 
+
+SSIM for Image # 887 :  0.963321518541 
+
+SSIM for Image # 888 :  0.948784261245 
+
+SSIM for Image # 889 :  1.0 
+
+SSIM for Image # 890 :  0.893518618065 
+
+SSIM for Image # 891 :  0.957681221823 
+
+SSIM for Image # 892 :  0.970372124016 
+
+SSIM for Image # 893 :  0.949884628123 
+
+SSIM for Image # 894 :  0.960362585819 
+
+SSIM for Image # 895 :  0.963926528037 
+
+SSIM for Image # 896 :  0.950617652846 
+
+SSIM for Image # 897 :  0.960825115846 
+
+SSIM for Image # 898 :  0.963712528849 
+
+SSIM for Image # 899 :  0.950354635361 
+
+SSIM for Image # 900 :  0.962501742816 
+
+SSIM for Image # 901 :  0.908739649084 
+
+SSIM for Image # 902 :  0.950322225113 
+
+SSIM for Image # 903 :  0.96175450687 
+
+SSIM for Image # 904 :  0.964473093261 
+
+SSIM for Image # 905 :  0.951277041453 
+
+SSIM for Image # 906 :  0.960808361447 
+
+SSIM for Image # 907 :  0.963759249087 
+
+SSIM for Image # 908 :  0.947852226327 
+
+SSIM for Image # 909 :  0.960258838562 
+
+SSIM for Image # 910 :  0.964299840371 
+
+SSIM for Image # 911 :  0.949275079941 
+
+SSIM for Image # 912 :  0.924245037511 
+
+SSIM for Image # 913 :  0.960907723249 
+
+SSIM for Image # 914 :  0.964262902935 
+
+SSIM for Image # 915 :  0.950369676852 
+
+SSIM for Image # 916 :  0.959892609012 
+
+SSIM for Image # 917 :  0.963358897125 
+
+SSIM for Image # 918 :  0.948920756085 
+
+SSIM for Image # 919 :  0.959249317196 
+
+SSIM for Image # 920 :  0.963677600024 
+
+SSIM for Image # 921 :  0.951035862953 
+
+SSIM for Image # 922 :  0.963043845745 
+
+SSIM for Image # 923 :  0.894066662599 
+
+SSIM for Image # 924 :  0.967055386411 
+
+SSIM for Image # 925 :  0.957038998256 
+
+SSIM for Image # 926 :  0.966166684702 
+
+SSIM for Image # 927 :  0.969721534662 
+
+SSIM for Image # 928 :  0.960930436175 
+
+SSIM for Image # 929 :  0.969263479158 
+
+SSIM for Image # 930 :  0.973118747311 
+
+SSIM for Image # 931 :  0.963308793698 
+
+SSIM for Image # 932 :  0.970490906171 
+
+SSIM for Image # 933 :  0.972658498059 
+
+SSIM for Image # 934 :  0.908276287065 
+
+SSIM for Image # 935 :  0.95970678694 
+
+SSIM for Image # 936 :  0.969276712358 
+
+SSIM for Image # 937 :  0.972027734429 
+
+SSIM for Image # 938 :  0.961012761065 
+
+SSIM for Image # 939 :  0.963169184848 
+
+SSIM for Image # 940 :  0.965979925873 
+
+SSIM for Image # 941 :  0.961631698325 
+
+SSIM for Image # 942 :  0.968784718308 
+
+SSIM for Image # 943 :  0.971566166148 
+
+SSIM for Image # 944 :  0.961922304282 
+
+SSIM for Image # 945 :  0.924573954427 
+
+SSIM for Image # 946 :  0.968179339822 
+
+SSIM for Image # 947 :  0.971001673268 
+
+SSIM for Image # 948 :  0.959466627018 
+
+SSIM for Image # 949 :  0.968286701083 
+
+SSIM for Image # 950 :  0.97060153604 
+
+SSIM for Image # 951 :  0.958372598878 
+
+SSIM for Image # 952 :  0.968456210412 
+
+SSIM for Image # 953 :  0.971839834038 
+
+SSIM for Image # 954 :  0.960826406311 
+
+SSIM for Image # 955 :  0.969136413333 
+
+SSIM for Image # 956 :  0.894857788255 
+
+SSIM for Image # 957 :  0.973117743412 
+
+SSIM for Image # 958 :  0.964921803029 
+
+SSIM for Image # 959 :  0.974150861984 
+
+SSIM for Image # 960 :  0.96658434158 
+
+SSIM for Image # 961 :  0.975953959226 
+
+SSIM for Image # 962 :  0.968987933726 
+
+SSIM for Image # 963 :  0.975028443159 
+
+SSIM for Image # 964 :  0.976685600569 
+
+SSIM for Image # 965 :  0.96785159857 
+
+SSIM for Image # 966 :  0.973488126281 
+
+SSIM for Image # 967 :  0.909700582817 
+
+SSIM for Image # 968 :  0.975283105382 
+
+SSIM for Image # 969 :  0.964692561803 
+
+SSIM for Image # 970 :  0.970874737471 
+
+SSIM for Image # 971 :  0.97391924101 
+
+SSIM for Image # 972 :  0.963104847218 
+
+SSIM for Image # 973 :  0.970542911435 
+
+SSIM for Image # 974 :  0.974222546476 
+
+SSIM for Image # 975 :  0.963995463009 
+
+SSIM for Image # 976 :  0.974174898481 
+
+SSIM for Image # 977 :  0.9665625351 
+
+SSIM for Image # 978 :  0.924751535043 
+
+SSIM for Image # 979 :  0.974128169415 
+
+SSIM for Image # 980 :  0.977052089129 
+
+SSIM for Image # 981 :  0.969551818188 
+
+SSIM for Image # 982 :  0.974937487307 
+
+SSIM for Image # 983 :  0.976233665372 
+
+SSIM for Image # 984 :  0.967206497644 
+
+SSIM for Image # 985 :  0.972395118839 
+
+SSIM for Image # 986 :  0.97355118624 
+
+SSIM for Image # 987 :  0.962486743403 
+
+SSIM for Image # 988 :  0.970958158062 
+
+SSIM for Image # 989 :  0.894769840491 
+
+SSIM for Image # 990 :  0.973738760103 
+
+SSIM for Image # 991 :  0.962580526417 
+
+SSIM for Image # 992 :  0.970248361712 
+
+SSIM for Image # 993 :  0.972783438763 
+
+SSIM for Image # 994 :  0.962148090478 
+
+SSIM for Image # 995 :  0.969945655426 
+
+SSIM for Image # 996 :  0.974042091183 
+
+SSIM for Image # 997 :  0.965205991955 
+
+SSIM for Image # 998 :  0.973950521782 
+
+SSIM for Image # 999 :  0.977653806696 
+
+SSIM for Image # 1000 :  1.0 
+
+SSIM for Image # 1001 :  0.911083712598 
+
+SSIM for Image # 1002 :  0.969196834637 
+
+SSIM for Image # 1003 :  0.975188572719 
+
+SSIM for Image # 1004 :  0.977071034143 
+
+SSIM for Image # 1005 :  0.968323945778 
+
+SSIM for Image # 1006 :  0.973344241705 
+
+SSIM for Image # 1007 :  0.975480133946 
+
+SSIM for Image # 1008 :  0.965388373446 
+
+SSIM for Image # 1009 :  0.971256399622 
+
+SSIM for Image # 1010 :  0.97332591211 
+
+SSIM for Image # 1011 :  0.96239762923 
+
+SSIM for Image # 1012 :  0.926979481526 
+
+SSIM for Image # 1013 :  0.970351635728 
+
+SSIM for Image # 1014 :  0.973622666548 
+
+SSIM for Image # 1015 :  0.96285081617 
+
+SSIM for Image # 1016 :  0.971619623145 
+
+SSIM for Image # 1017 :  0.976141919538 
+
+SSIM for Image # 1018 :  0.966842244635 
+
+SSIM for Image # 1019 :  0.974077805457 
+
+SSIM for Image # 1020 :  0.976292786095 
+
+SSIM for Image # 1021 :  0.96693276054 
+
+SSIM for Image # 1022 :  0.973341388091 
+
+SSIM for Image # 1023 :  0.901204547485 
+
+SSIM for Image # 1024 :  0.975488512395 
+
+SSIM for Image # 1025 :  0.970373363275 
+
+SSIM for Image # 1026 :  0.9734437193 
+
+SSIM for Image # 1027 :  0.975572482338 
+
+SSIM for Image # 1028 :  0.965606312366 
+
+SSIM for Image # 1029 :  0.971348788967 
+
+SSIM for Image # 1030 :  0.974461575567 
+
+SSIM for Image # 1031 :  0.962681856776 
+
+SSIM for Image # 1032 :  0.968858726415 
+
+SSIM for Image # 1033 :  0.971400517373 
+
+SSIM for Image # 1034 :  0.912674904897 
+
+SSIM for Image # 1035 :  0.958439378641 
+
+SSIM for Image # 1036 :  0.967168458674 
+
+SSIM for Image # 1037 :  0.970781846749 
+
+SSIM for Image # 1038 :  0.959422603586 
+
+SSIM for Image # 1039 :  0.967732467832 
+
+SSIM for Image # 1040 :  0.970597400234 
+
+SSIM for Image # 1041 :  0.956998387497 
+
+SSIM for Image # 1042 :  0.967026558341 
+
+SSIM for Image # 1043 :  0.970727674912 
+
+SSIM for Image # 1044 :  0.958551124685 
+
+SSIM for Image # 1045 :  0.926100693249 
+
+SSIM for Image # 1046 :  0.966900838152 
+
+SSIM for Image # 1047 :  0.970305613025 
+
+SSIM for Image # 1048 :  0.958494113359 
+
+SSIM for Image # 1049 :  0.967533152975 
+
+SSIM for Image # 1050 :  0.970324606014 
+
+SSIM for Image # 1051 :  0.958766370955 
+
+SSIM for Image # 1052 :  0.967313695826 
+
+SSIM for Image # 1053 :  0.970674471586 
+
+SSIM for Image # 1054 :  0.959247051183 
+
+SSIM for Image # 1055 :  0.967583018523 
+
+SSIM for Image # 1056 :  0.890984980534 
+
+SSIM for Image # 1057 :  0.969871056093 
+
+SSIM for Image # 1058 :  0.960944887793 
+
+SSIM for Image # 1059 :  0.968357192283 
+
+SSIM for Image # 1060 :  0.971487530726 
+
+SSIM for Image # 1061 :  0.959841528889 
+
+SSIM for Image # 1062 :  0.967731213856 
+
+SSIM for Image # 1063 :  0.970421257073 
+
+SSIM for Image # 1064 :  0.959485896545 
+
+SSIM for Image # 1065 :  0.967800740425 
+
+SSIM for Image # 1066 :  0.971046048615 
+
+SSIM for Image # 1067 :  0.923632331882 
+
+SSIM for Image # 1068 :  0.95901912607 
+
+SSIM for Image # 1069 :  0.965193688776 
+
+SSIM for Image # 1070 :  0.968869921325 
+
+SSIM for Image # 1071 :  0.958873424217 
+
+SSIM for Image # 1072 :  0.962121671112 
+
+SSIM for Image # 1073 :  0.966524440549 
+
+SSIM for Image # 1074 :  0.956695989283 
+
+SSIM for Image # 1075 :  0.962090384231 
+
+SSIM for Image # 1076 :  0.967870125403 
+
+SSIM for Image # 1077 :  0.95527105053 
+
+SSIM for Image # 1078 :  0.899523537063 
+
+SSIM for Image # 1079 :  0.963443183946 
+
+SSIM for Image # 1080 :  0.969262320114 
+
+SSIM for Image # 1081 :  0.95594962698 
+
+SSIM for Image # 1082 :  0.961629831458 
+
+SSIM for Image # 1083 :  0.968713330158 
+
+SSIM for Image # 1084 :  0.956390193899 
+
+SSIM for Image # 1085 :  0.959964199888 
+
+SSIM for Image # 1086 :  0.966547425612 
+
+SSIM for Image # 1087 :  0.951771747686 
+
+SSIM for Image # 1088 :  0.960771797626 
+
+SSIM for Image # 1089 :  0.912904358167 
+
+SSIM for Image # 1090 :  0.967327166799 
+
+SSIM for Image # 1091 :  0.954350236954 
+
+SSIM for Image # 1092 :  0.959606458492 
+
+SSIM for Image # 1093 :  0.968223502617 
+
+SSIM for Image # 1094 :  0.957449414728 
+
+SSIM for Image # 1095 :  0.963611555492 
+
+SSIM for Image # 1096 :  0.968577757848 
+
+SSIM for Image # 1097 :  0.958374850999 
+
+SSIM for Image # 1098 :  0.963491145353 
+
+SSIM for Image # 1099 :  0.9696888292 
+
+SSIM for Image # 1100 :  0.927596518106 
+
+SSIM for Image # 1101 :  0.958597514955 
+
+SSIM for Image # 1102 :  0.967705707539 
+
+SSIM for Image # 1103 :  0.97334750618 
+
+SSIM for Image # 1104 :  0.96420129788 
+
+SSIM for Image # 1105 :  0.970295841347 
+
+SSIM for Image # 1106 :  0.975971596876 
+
+SSIM for Image # 1107 :  0.968670922557 
+
+SSIM for Image # 1108 :  0.973104387194 
+
+SSIM for Image # 1109 :  0.976717157577 
+
+SSIM for Image # 1110 :  0.969309176235 
+
+SSIM for Image # 1111 :  1.0 
+
+SSIM for Image # 1112 :  1.0 
+
+SSIM for Image # 1113 :  0.899470309497 
+
+SSIM for Image # 1114 :  0.973731002118 
+
+SSIM for Image # 1115 :  0.976414186906 
+
+SSIM for Image # 1116 :  0.969143362624 
+
+SSIM for Image # 1117 :  0.974356353544 
+
+SSIM for Image # 1118 :  0.976624372553 
+
+SSIM for Image # 1119 :  0.96975775394 
+
+SSIM for Image # 1120 :  0.975185950832 
+
+SSIM for Image # 1121 :  0.976051993206 
+
+SSIM for Image # 1122 :  0.968514979452 
+
+SSIM for Image # 1123 :  0.973070895347 
+
+SSIM for Image # 1124 :  0.913900132074 
+
+SSIM for Image # 1125 :  0.974925121641 
+
+SSIM for Image # 1126 :  0.967476029627 
+
+SSIM for Image # 1127 :  0.973627471063 
+
+SSIM for Image # 1128 :  0.975657526472 
+
+SSIM for Image # 1129 :  0.969613682024 
+
+SSIM for Image # 1130 :  0.975339025444 
+
+SSIM for Image # 1131 :  0.977092080906 
+
+SSIM for Image # 1132 :  0.970760881156 
+
+SSIM for Image # 1133 :  0.97508935394 
+
+SSIM for Image # 1134 :  0.977479471705 
+
+SSIM for Image # 1135 :  0.929921919453 
+
+SSIM for Image # 1136 :  0.970010452093 
+
+SSIM for Image # 1137 :  0.973954755735 
+
+SSIM for Image # 1138 :  0.976201672496 
+
+SSIM for Image # 1139 :  0.969083095529 
+
+SSIM for Image # 1140 :  0.970487672353 
+
+SSIM for Image # 1141 :  0.970746258535 
+
+SSIM for Image # 1142 :  0.959720481344 
+
+SSIM for Image # 1143 :  0.960795084818 
+
+SSIM for Image # 1144 :  0.968260985549 
+
+SSIM for Image # 1145 :  0.967288709732 
+
+SSIM for Image # 1146 :  0.901151631707 
+
+SSIM for Image # 1147 :  0.968858458365 
+
+SSIM for Image # 1148 :  0.973328757904 
+
+SSIM for Image # 1149 :  0.975918792182 
+
+SSIM for Image # 1150 :  0.980182713994 
+
+SSIM for Image # 1151 :  0.978238181253 
+
+SSIM for Image # 1152 :  0.981608560909 
+
+SSIM for Image # 1153 :  0.984642938494 
+
+SSIM for Image # 1154 :  0.984223378496 
+
+SSIM for Image # 1155 :  0.987777333722 
+
+SSIM for Image # 1156 :  0.990977781259 
+
+SSIM for Image # 1157 :  0.927465200724 
+
+SSIM for Image # 1158 :  0.992474595109 
+
+SSIM for Image # 1159 :  0.995565337064 
+
+SSIM for Image # 1160 :  0.994231262925 
+
+SSIM for Image # 1161 :  0.994559848101 
+
+SSIM for Image # 1162 :  0.994764250199 
+
+SSIM for Image # 1163 :  0.998017911758 
+
+SSIM for Image # 1164 :  0.997987100475 
+
+SSIM for Image # 1165 :  0.997989090563 
+
+SSIM for Image # 1166 :  0.997988240496 
+
+SSIM for Image # 1167 :  0.998135243543 
+
+SSIM for Image # 1168 :  0.903319483809 
+
+SSIM for Image # 1169 :  0.997992401315 
+
+SSIM for Image # 1170 :  0.997930099851 
+
+SSIM for Image # 1171 :  0.99754167596 
+
+SSIM for Image # 1172 :  0.997294982289 
+
+SSIM for Image # 1173 :  0.996993777547 
+
+SSIM for Image # 1174 :  0.997473933938 
+
+SSIM for Image # 1175 :  0.997833931595 
+
+SSIM for Image # 1176 :  0.992655494541 
+
+SSIM for Image # 1177 :  0.992063440515 
+
+SSIM for Image # 1178 :  0.991781172262 
+
+SSIM for Image # 1179 :  0.91565773528 
+
+SSIM for Image # 1180 :  0.991631029455 
+
+SSIM for Image # 1181 :  0.991753071464 
+
+SSIM for Image # 1182 :  0.991191611584 
+
+SSIM for Image # 1183 :  0.9911592459 
+
+SSIM for Image # 1184 :  0.991088063172 
+
+SSIM for Image # 1185 :  0.989621972597 
+
+SSIM for Image # 1186 :  0.989806615085 
+
+SSIM for Image # 1187 :  0.989798884762 
+
+SSIM for Image # 1188 :  0.989667844152 
+
+SSIM for Image # 1189 :  0.98986927257 
+
+SSIM for Image # 1190 :  0.930271263026 
+
+SSIM for Image # 1191 :  0.990140006043 
+
+SSIM for Image # 1192 :  0.989677238587 
+
+SSIM for Image # 1193 :  0.990276971757 
+
+SSIM for Image # 1194 :  0.990398737262 
+
+SSIM for Image # 1195 :  0.989746995886 
+
+SSIM for Image # 1196 :  0.990108088125 
+
+SSIM for Image # 1197 :  0.989951066631 
+
+SSIM for Image # 1198 :  0.990094739414 
+
+SSIM for Image # 1199 :  0.990629902617 
+
+SSIM for Image # 1200 :  0.990995079316 
+
+SSIM for Image # 1201 :  0.902076770431 
+
+SSIM for Image # 1202 :  0.990154303555 
+
+SSIM for Image # 1203 :  0.990418702187 
+
+SSIM for Image # 1204 :  0.990785246022 
+
+SSIM for Image # 1205 :  0.990771050934 
+
+SSIM for Image # 1206 :  0.990911961099 
+
+SSIM for Image # 1207 :  0.991284069576 
+
+SSIM for Image # 1208 :  0.991287187337 
+
+SSIM for Image # 1209 :  0.991494453128 
+
+SSIM for Image # 1210 :  0.991718906316 
+
+SSIM for Image # 1211 :  0.991522530154 
+
+SSIM for Image # 1212 :  0.915802523331 
+
+SSIM for Image # 1213 :  0.991547676017 
+
+SSIM for Image # 1214 :  0.992083070826 
+
+SSIM for Image # 1215 :  0.992091599786 
+
+SSIM for Image # 1216 :  0.99260669786 
+
+SSIM for Image # 1217 :  0.992998298053 
+
+SSIM for Image # 1218 :  0.993373096781 
+
+SSIM for Image # 1219 :  0.99370428325 
+
+SSIM for Image # 1220 :  0.994357056506 
+
+SSIM for Image # 1221 :  0.994556386893 
+
+SSIM for Image # 1222 :  0.994847355831 
+
+SSIM for Image # 1223 :  1.0 
+
+SSIM for Image # 1224 :  0.930652421819 
+
+SSIM for Image # 1225 :  0.994839961525 
+
+SSIM for Image # 1226 :  0.99485315631 
+
+SSIM for Image # 1227 :  0.995287887794 
+
+SSIM for Image # 1228 :  0.995186859217 
+
+SSIM for Image # 1229 :  0.994627830677 
+
+SSIM for Image # 1230 :  0.994823484338 
+
+SSIM for Image # 1231 :  0.994977124243 
+
+SSIM for Image # 1232 :  0.99496964209 
+
+SSIM for Image # 1233 :  0.995076489971 
+
+SSIM for Image # 1234 :  0.995081867916 
+
+SSIM for Image # 1235 :  0.902274836618 
+
+SSIM for Image # 1236 :  0.994933716629 
+
+SSIM for Image # 1237 :  0.995043856599 
+
+SSIM for Image # 1238 :  0.995027839478 
+
+SSIM for Image # 1239 :  0.995042027166 
+
+SSIM for Image # 1240 :  0.994476033508 
+
+SSIM for Image # 1241 :  0.994370372739 
+
+SSIM for Image # 1242 :  0.994854885878 
+
+SSIM for Image # 1243 :  0.994350615318 
+
+SSIM for Image # 1244 :  0.994600679014 
+
+SSIM for Image # 1245 :  0.994672230477 
+
+SSIM for Image # 1246 :  0.92816969586 
+
+SSIM for Image # 1247 :  0.99469061433 
+
+SSIM for Image # 1248 :  0.994549005606 
+
+SSIM for Image # 1249 :  0.994862340737 
+
+SSIM for Image # 1250 :  0.994751939026 
+
+SSIM for Image # 1251 :  0.994605362364 
+
+SSIM for Image # 1252 :  0.994722989278 
+
+SSIM for Image # 1253 :  0.9951931553 
+
+SSIM for Image # 1254 :  0.995239790279 
+
+SSIM for Image # 1255 :  0.995342859519 
+
+SSIM for Image # 1256 :  0.995020100033 
+
+SSIM for Image # 1257 :  0.902814578149 
+
+SSIM for Image # 1258 :  0.995162761209 
+
+SSIM for Image # 1259 :  0.994853467927 
+
+SSIM for Image # 1260 :  0.996309426527 
+
+SSIM for Image # 1261 :  0.99675215069 
+
+SSIM for Image # 1262 :  0.996505502781 
+
+SSIM for Image # 1263 :  0.996532304578 
+
+SSIM for Image # 1264 :  0.996306450989 
+
+SSIM for Image # 1265 :  0.995988740854 
+
+SSIM for Image # 1266 :  0.995985147712 
+
+SSIM for Image # 1267 :  0.99585013598 
+
+SSIM for Image # 1268 :  0.91589574683 
+
+SSIM for Image # 1269 :  0.995872945582 
+
+SSIM for Image # 1270 :  0.996279559863 
+
+SSIM for Image # 1271 :  0.996084631646 
+
+SSIM for Image # 1272 :  0.996043721679 
+
+SSIM for Image # 1273 :  0.996258008606 
+
+SSIM for Image # 1274 :  0.996174662036 
+
+SSIM for Image # 1275 :  0.996327380505 
+
+SSIM for Image # 1276 :  0.996113103093 
+
+SSIM for Image # 1277 :  0.996289366551 
+
+SSIM for Image # 1278 :  0.996404334776 
+
+SSIM for Image # 1279 :  0.931111838957 
+
+SSIM for Image # 1280 :  0.996402557337 
+
+SSIM for Image # 1281 :  0.996079391772 
+
+SSIM for Image # 1282 :  0.996321582662 
+
+SSIM for Image # 1283 :  0.996262273783 
+
+SSIM for Image # 1284 :  0.996044604648 
+
+SSIM for Image # 1285 :  0.995788406568 
+
+SSIM for Image # 1286 :  0.996124865911 
+
+SSIM for Image # 1287 :  0.996042214322 
+
+SSIM for Image # 1288 :  0.995824062415 
+
+SSIM for Image # 1289 :  0.995533023328 
+
+SSIM for Image # 1290 :  0.903805652851 
+
+SSIM for Image # 1291 :  0.994888656451 
+
+SSIM for Image # 1292 :  0.998039650508 
+
+SSIM for Image # 1293 :  0.997312654075 
+
+SSIM for Image # 1294 :  0.997043250434 
+
+SSIM for Image # 1295 :  0.996814198977 
+
+SSIM for Image # 1296 :  0.996849620911 
+
+SSIM for Image # 1297 :  0.996677947829 
+
+SSIM for Image # 1298 :  0.996616986347 
+
+SSIM for Image # 1299 :  0.996881130919 
+
+SSIM for Image # 1300 :  0.996818968223 
+
+SSIM for Image # 1301 :  0.914976473055 
+
+SSIM for Image # 1302 :  0.99666088246 
+
+SSIM for Image # 1303 :  0.996661345614 
+
+SSIM for Image # 1304 :  0.996427229623 
+
+SSIM for Image # 1305 :  0.996521965921 
+
+SSIM for Image # 1306 :  0.996840262031 
+
+SSIM for Image # 1307 :  0.99681452914 
+
+SSIM for Image # 1308 :  0.997270627746 
+
+SSIM for Image # 1309 :  0.996782030394 
+
+SSIM for Image # 1310 :  0.996971787483 
+
+SSIM for Image # 1311 :  0.996479836813 
+
+SSIM for Image # 1312 :  0.930256601401 
+
+SSIM for Image # 1313 :  0.996740043936 
+
+SSIM for Image # 1314 :  0.997063865612 
+
+SSIM for Image # 1315 :  0.99686755348 
+
+SSIM for Image # 1316 :  0.996886646961 
+
+SSIM for Image # 1317 :  0.996865050808 
+
+SSIM for Image # 1318 :  0.996761306625 
+
+SSIM for Image # 1319 :  0.996868102157 
+
+SSIM for Image # 1320 :  0.996762425824 
+
+SSIM for Image # 1321 :  0.996629882098 
+
+SSIM for Image # 1322 :  0.996736663963 
+
+SSIM for Image # 1323 :  0.895629653786 
+
+SSIM for Image # 1324 :  0.996676168152 
+
+SSIM for Image # 1325 :  0.996689060451 
+
+SSIM for Image # 1326 :  0.996991561625 
+
+SSIM for Image # 1327 :  0.997082945046 
+
+SSIM for Image # 1328 :  0.996858052854 
+
+SSIM for Image # 1329 :  0.996925830739 
+
+SSIM for Image # 1330 :  0.996900346832 
+
+SSIM for Image # 1331 :  0.996891534959 
+
+SSIM for Image # 1332 :  0.996949019121 
+
+SSIM for Image # 1333 :  0.99684359968 
+
+SSIM for Image # 1334 :  1.0 
+
+SSIM for Image # 1335 :  0.91509885245 
+
+SSIM for Image # 1336 :  0.996774124901 
+
+SSIM for Image # 1337 :  0.9971478151 
+
+SSIM for Image # 1338 :  0.997110727572 
+
+SSIM for Image # 1339 :  0.996991061772 
+
+SSIM for Image # 1340 :  0.996949804003 
+
+SSIM for Image # 1341 :  0.996686192038 
+
+SSIM for Image # 1342 :  0.99691107377 
+
+SSIM for Image # 1343 :  0.997159529707 
+
+SSIM for Image # 1344 :  0.99712979774 
+
+SSIM for Image # 1345 :  0.99697193138 
+
+SSIM for Image # 1346 :  0.930708553349 
+
+SSIM for Image # 1347 :  0.996997579988 
+
+SSIM for Image # 1348 :  0.996734730631 
+
+SSIM for Image # 1349 :  0.996569967592 
+
+SSIM for Image # 1350 :  0.996616029275 
+
+SSIM for Image # 1351 :  0.996680457623 
+
+SSIM for Image # 1352 :  0.996666981193 
+
+SSIM for Image # 1353 :  0.996547874989 
+
+SSIM for Image # 1354 :  0.996696523327 
+
+SSIM for Image # 1355 :  0.996811991628 
+
+SSIM for Image # 1356 :  0.996902959234 
+
+SSIM for Image # 1357 :  0.902918121049 
+
+SSIM for Image # 1358 :  0.996820576478 
+
+SSIM for Image # 1359 :  0.997066063098 
+
+SSIM for Image # 1360 :  0.997089595562 
+
+SSIM for Image # 1361 :  0.997030782383 
+
+SSIM for Image # 1362 :  0.996695319133 
+
+SSIM for Image # 1363 :  0.996855470452 
+
+SSIM for Image # 1364 :  0.996825305793 
+
+SSIM for Image # 1365 :  0.996015669398 
+
+SSIM for Image # 1366 :  0.997205331722 
+
+SSIM for Image # 1367 :  0.996976083682 
+
+SSIM for Image # 1368 :  0.915817043875 
+
+SSIM for Image # 1369 :  0.997152324731 
+
+SSIM for Image # 1370 :  0.997559355891 
+
+SSIM for Image # 1371 :  0.997432504201 
+
+SSIM for Image # 1372 :  0.9973822034 
+
+SSIM for Image # 1373 :  0.997060058272 
+
+SSIM for Image # 1374 :  0.996861514301 
+
+SSIM for Image # 1375 :  0.99680906892 
+
+SSIM for Image # 1376 :  0.996559008829 
+
+SSIM for Image # 1377 :  0.996460418224 
+
+SSIM for Image # 1378 :  0.996350846872 
+
+SSIM for Image # 1379 :  0.931518660685 
+
+SSIM for Image # 1380 :  0.995905417811 
+
+SSIM for Image # 1381 :  0.995760745125 
+
+SSIM for Image # 1382 :  0.995334932559 
+
+SSIM for Image # 1383 :  0.995139719398 
+
+SSIM for Image # 1384 :  0.994801595527 
+
+SSIM for Image # 1385 :  0.994113050434 
+
+SSIM for Image # 1386 :  0.993672983041 
+
+SSIM for Image # 1387 :  0.993464531808 
+
+SSIM for Image # 1388 :  0.993067115292 
+
+SSIM for Image # 1389 :  0.992590980623 
+
+SSIM for Image # 1390 :  0.901870218407 
+
+SSIM for Image # 1391 :  0.992384163979 
+
+SSIM for Image # 1392 :  0.99189669352 
+
+SSIM for Image # 1393 :  0.991692863805 
+
+SSIM for Image # 1394 :  0.991161171985 
+
+SSIM for Image # 1395 :  0.990988747528 
+
+SSIM for Image # 1396 :  0.99208477435 
+
+SSIM for Image # 1397 :  0.99130495461 
+
+SSIM for Image # 1398 :  0.990885021605 
+
+SSIM for Image # 1399 :  0.990683844985 
+
+SSIM for Image # 1400 :  0.991006818225 
+
+SSIM for Image # 1401 :  0.916188442433 
+
+SSIM for Image # 1402 :  0.991281970638 
+
+SSIM for Image # 1403 :  0.990369155881 
+
+SSIM for Image # 1404 :  0.990645104148 
+
+SSIM for Image # 1405 :  0.990472131292 
+
+SSIM for Image # 1406 :  0.990922539389 
+
+SSIM for Image # 1407 :  0.991325886192 
+
+SSIM for Image # 1408 :  0.991352644279 
+
+SSIM for Image # 1409 :  0.991385996457 
+
+SSIM for Image # 1410 :  0.991438025474 
+
+SSIM for Image # 1411 :  0.991230667922 
+
+SSIM for Image # 1412 :  0.931700698955 
+
+SSIM for Image # 1413 :  0.991961985358 
+
+SSIM for Image # 1414 :  0.992728964736 
+
+SSIM for Image # 1415 :  0.992781151034 
+
+SSIM for Image # 1416 :  0.993674973778 
+
+SSIM for Image # 1417 :  0.994154608211 
+
+SSIM for Image # 1418 :  0.994058492566 
+
+SSIM for Image # 1419 :  0.992228679455 
+
+SSIM for Image # 1420 :  0.989801992329 
+
+SSIM for Image # 1421 :  0.994533869123 
+
+SSIM for Image # 1422 :  0.994587725574 
+
+SSIM for Image # 1423 :  0.904188255378 
+
+SSIM for Image # 1424 :  0.994486794132 
+
+SSIM for Image # 1425 :  0.997717343875 
+
+SSIM for Image # 1426 :  0.997096004416 
+
+SSIM for Image # 1427 :  0.997149209054 
+
+SSIM for Image # 1428 :  0.99709901094 
+
+SSIM for Image # 1429 :  0.997101721231 
+
+SSIM for Image # 1430 :  0.996919017959 
+
+SSIM for Image # 1431 :  0.996970638881 
+
+SSIM for Image # 1432 :  0.997024477677 
+
+SSIM for Image # 1433 :  0.997286668784 
+
+SSIM for Image # 1434 :  0.915724818075 
+
+SSIM for Image # 1435 :  0.997414070709 
+
+SSIM for Image # 1436 :  0.997749340481 
+
+SSIM for Image # 1437 :  0.997929616268 
+
+SSIM for Image # 1438 :  0.997987648386 
+
+SSIM for Image # 1439 :  0.998103065766 
+
+SSIM for Image # 1440 :  0.998311328977 
+
+SSIM for Image # 1441 :  0.998678063405 
+
+SSIM for Image # 1442 :  0.998680392412 
+
+SSIM for Image # 1443 :  0.998870666654 
+
+SSIM for Image # 1444 :  0.9989564135 
+
+SSIM for Image # 1445 :  1.0 
+
+SSIM for Image # 1446 :  0.931268073611 
+
+SSIM for Image # 1447 :  0.999013305036 
+
+SSIM for Image # 1448 :  0.999045581048 
+
+SSIM for Image # 1449 :  0.999198632421 
+
+SSIM for Image # 1450 :  0.999208157921 
+
+SSIM for Image # 1451 :  0.99934672588 
+
+SSIM for Image # 1452 :  0.999602224536 
+
+SSIM for Image # 1453 :  0.999368494308 
+
+SSIM for Image # 1454 :  0.999380098817 
+
+SSIM for Image # 1455 :  0.999229425618 
+
+SSIM for Image # 1456 :  0.999283641807 
+
+SSIM for Image # 1457 :  0.901957610606 
+
+SSIM for Image # 1458 :  0.999338888075 
+
+SSIM for Image # 1459 :  0.999292809838 
+
+SSIM for Image # 1460 :  0.999263111294 
+
+SSIM for Image # 1461 :  0.999352855663 
+
+SSIM for Image # 1462 :  0.999281737639 
+
+SSIM for Image # 1463 :  0.999199691045 
+
+SSIM for Image # 1464 :  0.999202813491 
+
+SSIM for Image # 1465 :  0.999256365833 
+
+SSIM for Image # 1466 :  0.999214110597 
+
+SSIM for Image # 1467 :  0.999214288393 
+
+SSIM for Image # 1468 :  0.917507633942 
+
+SSIM for Image # 1469 :  0.999141597891 
+
+SSIM for Image # 1470 :  0.999111720294 
+
+SSIM for Image # 1471 :  0.999107896219 
+
+SSIM for Image # 1472 :  0.999171190656 
+
+SSIM for Image # 1473 :  0.999102477314 
+
+SSIM for Image # 1474 :  0.99910201932 
+
+SSIM for Image # 1475 :  0.999340401289 
+
+SSIM for Image # 1476 :  0.999333962914 
+
+SSIM for Image # 1477 :  0.999206469914 
+
+SSIM for Image # 1478 :  0.99929013506 
+
+SSIM for Image # 1479 :  0.932146753518 
+
+SSIM for Image # 1480 :  0.999385714321 
+
+SSIM for Image # 1481 :  0.999378002904 
+
+SSIM for Image # 1482 :  0.999372958283 
+
+SSIM for Image # 1483 :  0.999308775004 
+
+SSIM for Image # 1484 :  0.999295952228 
+
+SSIM for Image # 1485 :  0.999413117981 
+
+SSIM for Image # 1486 :  0.999293857557 
+
+SSIM for Image # 1487 :  0.99934808064 
+
+SSIM for Image # 1488 :  0.999324689713 
+
+SSIM for Image # 1489 :  0.999345282715 
+
+SSIM for Image # 1490 :  0.903589348891 
+
+SSIM for Image # 1491 :  0.999266055704 
+
+SSIM for Image # 1492 :  0.999352297169 
+
+SSIM for Image # 1493 :  0.999344253434 
+
+SSIM for Image # 1494 :  0.999266164528 
+
+SSIM for Image # 1495 :  0.999261773545 
+
+SSIM for Image # 1496 :  0.999348443125 
+
+SSIM for Image # 1497 :  0.999151465277 
+
+SSIM for Image # 1498 :  0.999230830048 
+
+SSIM for Image # 1499 :  0.999220674454 
+
+SSIM for Image # 1500 :  0.999165961014 
+
+SSIM for Image # 1501 :  0.918449802966 
+
+SSIM for Image # 1502 :  0.99915663407 
+
+SSIM for Image # 1503 :  0.999277922455 
+
+SSIM for Image # 1504 :  0.99913290667 
+
+SSIM for Image # 1505 :  0.999112933941 
+
+SSIM for Image # 1506 :  0.999205629378 
+
+SSIM for Image # 1507 :  0.999234069622 
+
+SSIM for Image # 1508 :  0.999260238085 
+
+SSIM for Image # 1509 :  0.999255154746 
+
+SSIM for Image # 1510 :  0.999358686144 
+
+SSIM for Image # 1511 :  0.999354345945 
+
+SSIM for Image # 1512 :  0.932758451913 
+
+SSIM for Image # 1513 :  0.999404044752 
+
+SSIM for Image # 1514 :  0.999437118572 
+
+SSIM for Image # 1515 :  0.999407896569 
+
+SSIM for Image # 1516 :  0.999426742815 
+
+SSIM for Image # 1517 :  0.999472133743 
+
+SSIM for Image # 1518 :  0.999384560444 
+
+SSIM for Image # 1519 :  0.999420547997 
+
+SSIM for Image # 1520 :  0.999472634069 
+
+SSIM for Image # 1521 :  0.99936411047 
+
+SSIM for Image # 1522 :  0.999339609876 
+
+SSIM for Image # 1523 :  0.902823186581 
+
+SSIM for Image # 1524 :  0.999409944633 
+
+SSIM for Image # 1525 :  0.999409661696 
+
+SSIM for Image # 1526 :  0.999326701757 
+
+SSIM for Image # 1527 :  0.999372066463 
+
+SSIM for Image # 1528 :  0.999394825928 
+
+SSIM for Image # 1529 :  0.999335443501 
+
+SSIM for Image # 1530 :  0.999287967786 
+
+SSIM for Image # 1531 :  0.999474441733 
+
+SSIM for Image # 1532 :  0.999507741162 
+
+SSIM for Image # 1533 :  0.999307121414 
+
+SSIM for Image # 1534 :  0.917689508445 
+
+SSIM for Image # 1535 :  0.999252001462 
+
+SSIM for Image # 1536 :  0.999256484062 
+
+SSIM for Image # 1537 :  0.999126694094 
+
+SSIM for Image # 1538 :  0.998876118786 
+
+SSIM for Image # 1539 :  0.998980562541 
+
+SSIM for Image # 1540 :  0.998643836795 
+
+SSIM for Image # 1541 :  0.998872769308 
+
+SSIM for Image # 1542 :  0.998546146947 
+
+SSIM for Image # 1543 :  0.998415157056 
+
+SSIM for Image # 1544 :  0.997805753851 
+
+SSIM for Image # 1545 :  0.933832130387 
+
+SSIM for Image # 1546 :  0.997844027134 
+
+SSIM for Image # 1547 :  0.997659493331 
+
+SSIM for Image # 1548 :  0.997412954255 
+
+SSIM for Image # 1549 :  0.997263023916 
+
+SSIM for Image # 1550 :  0.997177646142 
+
+SSIM for Image # 1551 :  0.997026268848 
+
+SSIM for Image # 1552 :  0.996849205131 
+
+SSIM for Image # 1553 :  0.99684034489 
+
+SSIM for Image # 1554 :  0.996722570842 
+
+SSIM for Image # 1555 :  0.996705558598 
+
+SSIM for Image # 1556 :  1.0 
+
+SSIM for Image # 1557 :  0.90996123154 
+
+SSIM for Image # 1558 :  0.996624848948 
+
+SSIM for Image # 1559 :  0.996833479281 
+
+SSIM for Image # 1560 :  0.996036336499 
+
+SSIM for Image # 1561 :  0.996208457829 
+
+SSIM for Image # 1562 :  0.99599136042 
+
+SSIM for Image # 1563 :  0.99598327381 
+
+SSIM for Image # 1564 :  0.995890169912 
+
+SSIM for Image # 1565 :  0.995701325723 
+
+SSIM for Image # 1566 :  0.995752928727 
+
+SSIM for Image # 1567 :  0.995778489979 
+
+SSIM for Image # 1568 :  0.96556266015 
+
+SSIM for Image # 1569 :  0.995627024742 
+
+SSIM for Image # 1570 :  0.995559372358 
+
+SSIM for Image # 1571 :  0.995744182947 
+
+SSIM for Image # 1572 :  0.99577911777 
+
+SSIM for Image # 1573 :  0.995831378041 
+
+SSIM for Image # 1574 :  0.995779479297 
+
+SSIM for Image # 1575 :  0.995772106146 
+
+SSIM for Image # 1576 :  0.995524250545 
+
+SSIM for Image # 1577 :  0.995511850432 
+
+SSIM for Image # 1578 :  0.995543626996 
+
+SSIM for Image # 1579 :  0.963196374735 
+
+SSIM for Image # 1580 :  0.995778430748 
+
+SSIM for Image # 1581 :  0.995980540244 
+
+SSIM for Image # 1582 :  0.995749106382 
+
+SSIM for Image # 1583 :  0.995540248089 
+
+SSIM for Image # 1584 :  0.995377954743 
+
+SSIM for Image # 1585 :  0.994855025937 
+
+SSIM for Image # 1586 :  0.994570385396 
+
+SSIM for Image # 1587 :  0.994791271986 
+
+SSIM for Image # 1588 :  0.99464307163 
+
+SSIM for Image # 1589 :  0.99479896738 
+
+SSIM for Image # 1590 :  0.944300794636 
+
+SSIM for Image # 1591 :  0.994988215319 
+
+SSIM for Image # 1592 :  0.995401596676 
+
+SSIM for Image # 1593 :  0.995321163804 
+
+SSIM for Image # 1594 :  0.995260907615 
+
+SSIM for Image # 1595 :  0.995073192799 
+
+SSIM for Image # 1596 :  0.995110458583 
+
+SSIM for Image # 1597 :  0.99492461858 
+
+SSIM for Image # 1598 :  0.994552220104 
+
+SSIM for Image # 1599 :  0.994592720738 
+
+SSIM for Image # 1600 :  0.994809340117 
+
+SSIM for Image # 1601 :  0.946363789245 
+
+SSIM for Image # 1602 :  0.994730177493 
+
+SSIM for Image # 1603 :  0.995069528299 
+
+SSIM for Image # 1604 :  0.995153603754 
+
+SSIM for Image # 1605 :  0.995281428069 
+
+SSIM for Image # 1606 :  0.995299784079 
+
+SSIM for Image # 1607 :  0.995277809132 
+
+SSIM for Image # 1608 :  0.995404651555 
+
+SSIM for Image # 1609 :  0.995082517913 
+
+SSIM for Image # 1610 :  0.994786351763 
+
+SSIM for Image # 1611 :  0.994979948034 
+
+SSIM for Image # 1612 :  0.947703513892 
+
+SSIM for Image # 1613 :  0.994691030068 
+
+SSIM for Image # 1614 :  0.995011730124 
+
+SSIM for Image # 1615 :  0.995215951514 
+
+SSIM for Image # 1616 :  0.995392159192 
+
+SSIM for Image # 1617 :  0.995577549703 
+
+SSIM for Image # 1618 :  0.995883952162 
+
+SSIM for Image # 1619 :  0.9955764888 
+
+SSIM for Image # 1620 :  0.995552457207 
+
+SSIM for Image # 1621 :  0.995360726528 
+
+SSIM for Image # 1622 :  0.994957213191 
+
+SSIM for Image # 1623 :  0.956734228603 
+
+SSIM for Image # 1624 :  0.994909800017 
+
+SSIM for Image # 1625 :  0.995184180046 
+
+SSIM for Image # 1626 :  0.99490243543 
+
+SSIM for Image # 1627 :  0.995124432649 
+
+SSIM for Image # 1628 :  0.99539412124 
+
+SSIM for Image # 1629 :  0.995894341371 
+
+SSIM for Image # 1630 :  0.996586906808 
+
+SSIM for Image # 1631 :  0.996679149381 
+
+SSIM for Image # 1632 :  0.996124245243 
+
+SSIM for Image # 1633 :  0.995566811101 
+
+SSIM for Image # 1634 :  0.962039652099 
+
+SSIM for Image # 1635 :  0.995153755692 
+
+SSIM for Image # 1636 :  0.995063640219 
+
+SSIM for Image # 1637 :  0.994923701808 
+
+SSIM for Image # 1638 :  0.994976320204 
+
+SSIM for Image # 1639 :  0.995075787858 
+
+SSIM for Image # 1640 :  0.995293211862 
+
+SSIM for Image # 1641 :  0.995579775087 
+
+SSIM for Image # 1642 :  0.995612142641 
+
+SSIM for Image # 1643 :  0.995891075077 
+
+SSIM for Image # 1644 :  0.995778762532 
+
+SSIM for Image # 1645 :  0.953656931551 
+
+SSIM for Image # 1646 :  0.995307982549 
+
+SSIM for Image # 1647 :  0.995140892544 
+
+SSIM for Image # 1648 :  0.994863444872 
+
+SSIM for Image # 1649 :  0.994783120541 
+
+SSIM for Image # 1650 :  0.99478948538 
+
+SSIM for Image # 1651 :  0.994864875648 
+
+SSIM for Image # 1652 :  0.99502282943 
+
+SSIM for Image # 1653 :  0.995361855357 
+
+SSIM for Image # 1654 :  0.995159965973 
+
+SSIM for Image # 1655 :  0.995358387334 
+
+SSIM for Image # 1656 :  0.940307146944 
+
+SSIM for Image # 1657 :  0.995443352188 
+
+SSIM for Image # 1658 :  0.995252568275 
+
+SSIM for Image # 1659 :  0.995024674982 
+
+SSIM for Image # 1660 :  0.994724669847 
+
+SSIM for Image # 1661 :  0.994396986842 
+
+SSIM for Image # 1662 :  0.994552414549 
+
+SSIM for Image # 1663 :  0.99465001392 
+
+SSIM for Image # 1664 :  0.994558428433 
+
+SSIM for Image # 1665 :  0.994785656794 
+
+SSIM for Image # 1666 :  0.995009300601 
+
+SSIM for Image # 1667 :  1.0 
+
+SSIM for Image # 1668 :  0.962533050062 
+
+SSIM for Image # 1669 :  0.994937981845 
+
+SSIM for Image # 1670 :  0.9951789226 
+
+SSIM for Image # 1671 :  0.995081987762 
+
+SSIM for Image # 1672 :  0.99493069369 
+
+SSIM for Image # 1673 :  0.994650939662 
+
+SSIM for Image # 1674 :  0.994446996534 
+
+SSIM for Image # 1675 :  0.994666308186 
+
+SSIM for Image # 1676 :  0.994534667124 
+
+SSIM for Image # 1677 :  0.994649223237 
+
+SSIM for Image # 1678 :  0.994515243228 
+
+SSIM for Image # 1679 :  0.947103436865 
+
+SSIM for Image # 1680 :  0.994870832097 
+
+SSIM for Image # 1681 :  0.995011385753 
+
+SSIM for Image # 1682 :  0.995160056383 
+
+SSIM for Image # 1683 :  0.995155723596 
+
+SSIM for Image # 1684 :  0.994946909 
+
+SSIM for Image # 1685 :  0.994732321763 
+
+SSIM for Image # 1686 :  0.994784575171 
+
+SSIM for Image # 1687 :  0.994954321065 
+
+SSIM for Image # 1688 :  0.994724133556 
+
+SSIM for Image # 1689 :  0.994696611253 
+
+SSIM for Image # 1690 :  0.955345423061 
+
+SSIM for Image # 1691 :  0.994093454613 
+
+SSIM for Image # 1692 :  0.996984243458 
+
+SSIM for Image # 1693 :  0.996158812726 
+
+SSIM for Image # 1694 :  0.996198307489 
+
+SSIM for Image # 1695 :  0.9960883283 
+
+SSIM for Image # 1696 :  0.996165167272 
+
+SSIM for Image # 1697 :  0.99617444374 
+
+SSIM for Image # 1698 :  0.996208993063 
+
+SSIM for Image # 1699 :  0.996383132654 
+
+SSIM for Image # 1700 :  0.996516946639 
+
+SSIM for Image # 1701 :  0.960856778007 
+
+SSIM for Image # 1702 :  0.996513557723 
+
+SSIM for Image # 1703 :  0.99666045002 
+
+SSIM for Image # 1704 :  0.996664819347 
+
+SSIM for Image # 1705 :  0.996564986436 
+
+SSIM for Image # 1706 :  0.996598062174 
+
+SSIM for Image # 1707 :  0.996741662321 
+
+SSIM for Image # 1708 :  0.99681232329 
+
+SSIM for Image # 1709 :  0.996637179337 
+
+SSIM for Image # 1710 :  0.996724236632 
+
+SSIM for Image # 1711 :  0.996630936447 
+
+SSIM for Image # 1712 :  0.946062461381 
+
+SSIM for Image # 1713 :  0.996761347809 
+
+SSIM for Image # 1714 :  0.997079232246 
+
+SSIM for Image # 1715 :  0.997073815065 
+
+SSIM for Image # 1716 :  0.997297395195 
+
+SSIM for Image # 1717 :  0.997454652718 
+
+SSIM for Image # 1718 :  0.997475543317 
+
+SSIM for Image # 1719 :  0.997224677872 
+
+SSIM for Image # 1720 :  0.997061691344 
+
+SSIM for Image # 1721 :  0.996692838321 
+
+SSIM for Image # 1722 :  0.997028433306 
+
+SSIM for Image # 1723 :  0.939613397256 
+
+SSIM for Image # 1724 :  0.996556020931 
+
+SSIM for Image # 1725 :  0.997359296619 
+
+SSIM for Image # 1726 :  0.996191419539 
+
+SSIM for Image # 1727 :  0.996538108887 
+
+SSIM for Image # 1728 :  0.996133206589 
+
+SSIM for Image # 1729 :  0.995895018667 
+
+SSIM for Image # 1730 :  0.996049410572 
+
+SSIM for Image # 1731 :  0.995881872341 
+
+SSIM for Image # 1732 :  0.995666019509 
+
+SSIM for Image # 1733 :  0.995459998371 
+
+SSIM for Image # 1734 :  0.966005710602 
+
+SSIM for Image # 1735 :  0.995625936099 
+
+SSIM for Image # 1736 :  0.99555775803 
+
+SSIM for Image # 1737 :  0.995519633931 
+
+SSIM for Image # 1738 :  0.994723728303 
+
+SSIM for Image # 1739 :  0.995434770264 
+
+SSIM for Image # 1740 :  0.995080699919 
+
+SSIM for Image # 1741 :  0.996053195035 
+
+SSIM for Image # 1742 :  0.995389709635 
+
+SSIM for Image # 1743 :  0.996168617198 
+
+SSIM for Image # 1744 :  0.996105104161 
+
+SSIM for Image # 1745 :  0.949040584609 
+
+SSIM for Image # 1746 :  0.996115285355 
+
+SSIM for Image # 1747 :  0.995952721603 
+
+SSIM for Image # 1748 :  0.995225027788 
+
+SSIM for Image # 1749 :  0.994599968807 
+
+SSIM for Image # 1750 :  0.994088851643 
+
+SSIM for Image # 1751 :  0.993788549096 
+
+SSIM for Image # 1752 :  0.993792388155 
+
+SSIM for Image # 1753 :  0.99374979847 
+
+SSIM for Image # 1754 :  0.993622573482 
+
+SSIM for Image # 1755 :  0.993219358805 
+
+SSIM for Image # 1756 :  0.939409091482 
+
+SSIM for Image # 1757 :  0.992768394244 
+
+SSIM for Image # 1758 :  0.993017268686 
+
+SSIM for Image # 1759 :  0.99147925238 
+
+SSIM for Image # 1760 :  0.991458810639 
+
+SSIM for Image # 1761 :  0.991053880848 
+
+SSIM for Image # 1762 :  0.99153113746 
+
+SSIM for Image # 1763 :  0.99054891072 
+
+SSIM for Image # 1764 :  0.991627287418 
+
+SSIM for Image # 1765 :  0.991522931096 
+
+SSIM for Image # 1766 :  0.990928205696 
+
+SSIM for Image # 1767 :  0.959879600161 
+
+SSIM for Image # 1768 :  0.991393833876 
+
+SSIM for Image # 1769 :  0.990822731295 
+
+SSIM for Image # 1770 :  0.991160026494 
+
+SSIM for Image # 1771 :  0.99075760638 
+
+SSIM for Image # 1772 :  0.990681876892 
+
+SSIM for Image # 1773 :  0.991223857699 
+
+SSIM for Image # 1774 :  0.9915097461 
+
+SSIM for Image # 1775 :  0.991146124974 
+
+SSIM for Image # 1776 :  0.990747206331 
+
+SSIM for Image # 1777 :  0.990992278905 
+
+SSIM for Image # 1778 :  1.0 
+
+SSIM for Image # 1779 :  0.945261265138 
+
+SSIM for Image # 1780 :  0.99062945034 
+
+SSIM for Image # 1781 :  0.990897399578 
+
+SSIM for Image # 1782 :  0.990597850069 
+
+SSIM for Image # 1783 :  0.990859042417 
+
+SSIM for Image # 1784 :  0.990854229069 
+
+SSIM for Image # 1785 :  0.990172767862 
+
+SSIM for Image # 1786 :  0.990808288568 
+
+SSIM for Image # 1787 :  0.99077177576 
+
+SSIM for Image # 1788 :  0.990168736094 
+
+SSIM for Image # 1789 :  0.990772554506 
+
+SSIM for Image # 1790 :  0.96039844251 
+
+SSIM for Image # 1791 :  0.989995525223 
+
+SSIM for Image # 1792 :  0.99141317541 
+
+SSIM for Image # 1793 :  0.989994124104 
+
+SSIM for Image # 1794 :  0.990434153818 
+
+SSIM for Image # 1795 :  0.990198905327 
+
+SSIM for Image # 1796 :  0.989897547449 
+
+SSIM for Image # 1797 :  0.989806510886 
+
+SSIM for Image # 1798 :  0.990222622854 
+
+SSIM for Image # 1799 :  0.989869900898 
+
+SSIM for Image # 1800 :  0.990098072092 
+
+SSIM for Image # 1801 :  0.947860950859 
+
+SSIM for Image # 1802 :  0.989816337734 
+
+SSIM for Image # 1803 :  0.989248105406 
+
+SSIM for Image # 1804 :  0.989287482107 
+
+SSIM for Image # 1805 :  0.989696273687 
+
+SSIM for Image # 1806 :  0.988841515635 
+
+SSIM for Image # 1807 :  0.989401137484 
+
+SSIM for Image # 1808 :  0.989928532984 
+
+SSIM for Image # 1809 :  0.988664467488 
+
+SSIM for Image # 1810 :  0.98806437686 
+
+SSIM for Image # 1811 :  0.988253332123 
+
+SSIM for Image # 1812 :  0.961068813744 
+
+SSIM for Image # 1813 :  0.987791800159 
+
+SSIM for Image # 1814 :  0.988228521671 
+
+SSIM for Image # 1815 :  0.986919908766 
+
+SSIM for Image # 1816 :  0.987470723769 
+
+SSIM for Image # 1817 :  0.987007781917 
+
+SSIM for Image # 1818 :  0.986560100323 
+
+SSIM for Image # 1819 :  0.986505013673 
+
+SSIM for Image # 1820 :  0.986421950281 
+
+SSIM for Image # 1821 :  0.985786677191 
+
+SSIM for Image # 1822 :  0.985967408925 
+
+SSIM for Image # 1823 :  0.949081821058 
+
+SSIM for Image # 1824 :  0.985563280428 
+
+SSIM for Image # 1825 :  0.993353974013 
+
+SSIM for Image # 1826 :  0.991490616521 
+
+SSIM for Image # 1827 :  0.991650426243 
+
+SSIM for Image # 1828 :  0.991371760009 
+
+SSIM for Image # 1829 :  0.991777952418 
+
+SSIM for Image # 1830 :  0.991563669491 
+
+SSIM for Image # 1831 :  0.991382482574 
+
+SSIM for Image # 1832 :  0.991647819004 
+
+SSIM for Image # 1833 :  0.991248527399 
+
+SSIM for Image # 1834 :  0.911177359855 
+
+SSIM for Image # 1835 :  0.991692198173 
+
+SSIM for Image # 1836 :  0.991297747001 
+
+SSIM for Image # 1837 :  0.991334613849 
+
+SSIM for Image # 1838 :  0.991418674788 
+
+SSIM for Image # 1839 :  0.991187106563 
+
+SSIM for Image # 1840 :  0.990753886618 
+
+SSIM for Image # 1841 :  0.99204876895 
+
+SSIM for Image # 1842 :  0.990722653468 
+
+SSIM for Image # 1843 :  0.99103063265 
+
+SSIM for Image # 1844 :  0.990494339265 
+
+SSIM for Image # 1845 :  0.924779464825 
+
+SSIM for Image # 1846 :  0.990865389051 
+
+SSIM for Image # 1847 :  0.990481267397 
+
+SSIM for Image # 1848 :  0.990816321212 
+
+SSIM for Image # 1849 :  0.990393942723 
+
+SSIM for Image # 1850 :  0.990356503028 
+
+SSIM for Image # 1851 :  0.986048670133 
+
+SSIM for Image # 1852 :  0.985226653625 
+
+SSIM for Image # 1853 :  0.985786639616 
+
+SSIM for Image # 1854 :  0.984900611592 
+
+SSIM for Image # 1855 :  0.984273561066 
+
+SSIM for Image # 1856 :  0.893673654999 
+
+SSIM for Image # 1857 :  0.984730945529 
+
+SSIM for Image # 1858 :  0.985856983214 
+
+SSIM for Image # 1859 :  0.984962996305 
+
+SSIM for Image # 1860 :  0.985300701558 
+
+SSIM for Image # 1861 :  0.98430169389 
+
+SSIM for Image # 1862 :  0.982970752145 
+
+SSIM for Image # 1863 :  0.983598575912 
+
+SSIM for Image # 1864 :  0.98350269414 
+
+SSIM for Image # 1865 :  0.983496063286 
+
+SSIM for Image # 1866 :  0.983709445355 
+
+SSIM for Image # 1867 :  0.923797953508 
+
+SSIM for Image # 1868 :  0.983751864974 
+
+SSIM for Image # 1869 :  0.983564231398 
+
+SSIM for Image # 1870 :  0.983706674527 
+
+SSIM for Image # 1871 :  0.984307538887 
+
+SSIM for Image # 1872 :  0.983887161108 
+
+SSIM for Image # 1873 :  0.983465473283 
+
+SSIM for Image # 1874 :  0.985433809383 
+
+SSIM for Image # 1875 :  0.984587234623 
+
+SSIM for Image # 1876 :  0.984436905665 
+
+SSIM for Image # 1877 :  0.986257384502 
+
+SSIM for Image # 1878 :  0.903140272404 
+
+SSIM for Image # 1879 :  0.985901209949 
+
+SSIM for Image # 1880 :  0.985892011708 
+
+SSIM for Image # 1881 :  0.992728500459 
+
+SSIM for Image # 1882 :  0.989013746841 
+
+SSIM for Image # 1883 :  0.988712446911 
+
+SSIM for Image # 1884 :  0.991113307842 
+
+SSIM for Image # 1885 :  0.990648623322 
+
+SSIM for Image # 1886 :  0.990528768693 
+
+SSIM for Image # 1887 :  0.990681170366 
+
+SSIM for Image # 1888 :  0.990632928967 
+
+SSIM for Image # 1889 :  1.0 
+
+SSIM for Image # 1890 :  0.913924155693 
+
+SSIM for Image # 1891 :  0.990435001122 
+
+SSIM for Image # 1892 :  0.990116416214 
+
+SSIM for Image # 1893 :  0.989251536492 
+
+SSIM for Image # 1894 :  0.988971047273 
+
+SSIM for Image # 1895 :  0.988088544609 
+
+SSIM for Image # 1896 :  0.987812742596 
+
+SSIM for Image # 1897 :  0.986432056917 
+
+SSIM for Image # 1898 :  0.986222827529 
+
+SSIM for Image # 1899 :  0.986533363114 
+
+SSIM for Image # 1900 :  0.984741292128 
+
+SSIM for Image # 1901 :  0.928021401805 
+
+SSIM for Image # 1902 :  0.984817026467 
+
+SSIM for Image # 1903 :  0.983388882799 
+
+SSIM for Image # 1904 :  0.983821872135 
+
+SSIM for Image # 1905 :  0.982340607462 
+
+SSIM for Image # 1906 :  0.981799661653 
+
+SSIM for Image # 1907 :  0.982099960975 
+
+SSIM for Image # 1908 :  0.980326687477 
+
+SSIM for Image # 1909 :  0.979852038395 
+
+SSIM for Image # 1910 :  0.979996788579 
+
+SSIM for Image # 1911 :  0.978001326932 
+
+SSIM for Image # 1912 :  0.9021809364 
+
+SSIM for Image # 1913 :  0.977366599733 
+
+SSIM for Image # 1914 :  0.977883841913 
+
+SSIM for Image # 1915 :  0.976830993102 
+
+SSIM for Image # 1916 :  0.977246210683 
+
+SSIM for Image # 1917 :  0.977816368932 
+
+SSIM for Image # 1918 :  0.975653210966 
+
+SSIM for Image # 1919 :  0.975210336272 
+
+SSIM for Image # 1920 :  0.975578200796 
+
+SSIM for Image # 1921 :  0.97297366812 
+
+SSIM for Image # 1922 :  0.976977489086 
+
+SSIM for Image # 1923 :  0.926672267248 
+
+SSIM for Image # 1924 :  0.969400906333 
+
+SSIM for Image # 1925 :  0.973071572817 
+
+SSIM for Image # 1926 :  0.974205290391 
+
+SSIM for Image # 1927 :  0.966615705749 
+
+SSIM for Image # 1928 :  0.97283795661 
+
+SSIM for Image # 1929 :  0.965243083605 
+
+SSIM for Image # 1930 :  0.968395088216 
+
+SSIM for Image # 1931 :  0.969687916764 
+
+SSIM for Image # 1932 :  0.959257471385 
+
+SSIM for Image # 1933 :  0.9635263491 
+
+SSIM for Image # 1934 :  0.90487478396 
+
+SSIM for Image # 1935 :  0.966152880521 
+
+SSIM for Image # 1936 :  0.955585154704 
+
+SSIM for Image # 1937 :  0.963691791981 
+
+SSIM for Image # 1938 :  0.95394946552 
+
+SSIM for Image # 1939 :  0.958943250465 
+
+SSIM for Image # 1940 :  0.962644621143 
+
+SSIM for Image # 1941 :  0.95253478461 
+
+SSIM for Image # 1942 :  0.958172459378 
+
+SSIM for Image # 1943 :  0.96315487951 
+
+SSIM for Image # 1944 :  0.953102620687 
+
+SSIM for Image # 1945 :  0.927896439738 
+
+SSIM for Image # 1946 :  0.957168611731 
+
+SSIM for Image # 1947 :  0.960485125916 
+
+SSIM for Image # 1948 :  0.946617087315 
+
+SSIM for Image # 1949 :  0.958232406319 
+
+SSIM for Image # 1950 :  0.942950262311 
+
+SSIM for Image # 1951 :  0.953674746681 
+
+SSIM for Image # 1952 :  0.957601411492 
+
+SSIM for Image # 1953 :  0.942542137381 
+
+SSIM for Image # 1954 :  0.955969589555 
+
+SSIM for Image # 1955 :  0.941478476816 
+
+SSIM for Image # 1956 :  0.906151388072 
+
+SSIM for Image # 1957 :  0.944579802998 
+
+SSIM for Image # 1958 :  0.969039012762 
+
+SSIM for Image # 1959 :  0.941800572012 
+
+SSIM for Image # 1960 :  0.951700319168 
+
+SSIM for Image # 1961 :  0.955703599084 
+
+SSIM for Image # 1962 :  0.939452859942 
+
+SSIM for Image # 1963 :  0.949545459608 
+
+SSIM for Image # 1964 :  0.955060762672 
+
+SSIM for Image # 1965 :  0.938119632987 
+
+SSIM for Image # 1966 :  0.94983787663 
+
+SSIM for Image # 1967 :  0.928304025107 
+
+SSIM for Image # 1968 :  0.954270944422 
+
+SSIM for Image # 1969 :  0.936944997233 
+
+SSIM for Image # 1970 :  0.947714013734 
+
+SSIM for Image # 1971 :  0.952890744854 
+
+SSIM for Image # 1972 :  0.935897534588 
+
+SSIM for Image # 1973 :  0.952868262668 
+
+SSIM for Image # 1974 :  0.938667220837 
+
+SSIM for Image # 1975 :  0.950072941765 
+
+SSIM for Image # 1976 :  0.954219957772 
+
+SSIM for Image # 1977 :  0.934964870473 
+
+SSIM for Image # 1978 :  0.905625220995 
+
+SSIM for Image # 1979 :  0.948726524781 
+
+SSIM for Image # 1980 :  0.953642247661 
+
+SSIM for Image # 1981 :  0.936010533758 
+
+SSIM for Image # 1982 :  0.948571591216 
+
+SSIM for Image # 1983 :  0.952413894128 
+
+SSIM for Image # 1984 :  0.92872943648 
+
+SSIM for Image # 1985 :  0.942351282804 
+
+SSIM for Image # 1986 :  0.947609009206 
+
+SSIM for Image # 1987 :  0.928001537669 
+
+SSIM for Image # 1988 :  0.942628983687 
+
+SSIM for Image # 1989 :  0.927951031407 
+
+SSIM for Image # 1990 :  0.948683981733 
+
+SSIM for Image # 1991 :  0.929019122718 
+
+SSIM for Image # 1992 :  0.94148417396 
+
+SSIM for Image # 1993 :  0.947202830636 
+
+SSIM for Image # 1994 :  0.929487268449 
+
+SSIM for Image # 1995 :  0.942359229744 
+
+SSIM for Image # 1996 :  0.948168637533 
+
+SSIM for Image # 1997 :  0.929160499462 
+
+SSIM for Image # 1998 :  0.941414550546 
+
+SSIM for Image # 1999 :  0.94830539897 
+
+SSIM for Image # 2000 :  1.0 
+
+SSIM for Image # 2001 :  0.906125389043 
+
+SSIM for Image # 2002 :  0.928474619134 
+
+SSIM for Image # 2003 :  0.946348141581 
+
+SSIM for Image # 2004 :  0.924933551849 
+
+SSIM for Image # 2005 :  0.941342969235 
+
+SSIM for Image # 2006 :  0.947058444876 
+
+SSIM for Image # 2007 :  0.925478860203 
+
+SSIM for Image # 2008 :  0.940413512132 
+
+SSIM for Image # 2009 :  0.946844609681 
+
+SSIM for Image # 2010 :  0.925002038699 
+
+SSIM for Image # 2011 :  0.945736115508 
+
+SSIM for Image # 2012 :  0.917455865685 
+
+SSIM for Image # 2013 :  0.926601514746 
+
+SSIM for Image # 2014 :  0.941836794296 
+
+SSIM for Image # 2015 :  0.947697148343 
+
+SSIM for Image # 2016 :  0.927602612615 
+
+SSIM for Image # 2017 :  0.94219489018 
+
+SSIM for Image # 2018 :  0.948804590262 
+
+SSIM for Image # 2019 :  0.927719839584 
+
+SSIM for Image # 2020 :  0.941755122212 
+
+SSIM for Image # 2021 :  0.948524652899 
+
+SSIM for Image # 2022 :  0.92854819371 
+
+SSIM for Image # 2023 :  0.930676836006 
+
+SSIM for Image # 2024 :  0.943058986608 
+
+SSIM for Image # 2025 :  0.948798141317 
+
+SSIM for Image # 2026 :  0.92864420314 
+
+SSIM for Image # 2027 :  0.947853157162 
+
+SSIM for Image # 2028 :  0.928880298302 
+
+SSIM for Image # 2029 :  0.942558120669 
+
+SSIM for Image # 2030 :  0.948172787566 
+
+SSIM for Image # 2031 :  0.927029581162 
+
+SSIM for Image # 2032 :  0.943474186047 
+
+SSIM for Image # 2033 :  0.948513258559 
+
+SSIM for Image # 2034 :  0.905332614128 
+
+SSIM for Image # 2035 :  0.927240518636 
+
+SSIM for Image # 2036 :  0.947813763289 
+
+SSIM for Image # 2037 :  0.92867673215 
+
+SSIM for Image # 2038 :  0.94388223757 
+
+SSIM for Image # 2039 :  0.948756049794 
+
+SSIM for Image # 2040 :  0.929071874591 
+
+SSIM for Image # 2041 :  0.948456845468 
+
+SSIM for Image # 2042 :  0.930075997075 
+
+SSIM for Image # 2043 :  0.943852198561 
+
+SSIM for Image # 2044 :  0.950227062919 
+
+SSIM for Image # 2045 :  0.929687120825 
+
+SSIM for Image # 2046 :  0.929264984652 
+
+SSIM for Image # 2047 :  0.948383613401 
+
+SSIM for Image # 2048 :  0.930115509691 
+
+SSIM for Image # 2049 :  0.944078885018 
+
+SSIM for Image # 2050 :  0.949725566952 
+
+SSIM for Image # 2051 :  0.92985041441 
+
+SSIM for Image # 2052 :  0.943777375518 
+
+SSIM for Image # 2053 :  0.94922846372 
+
+SSIM for Image # 2054 :  0.929787798943 
+
+SSIM for Image # 2055 :  0.943438473907 
+
+SSIM for Image # 2056 :  0.911421558582 
+
+SSIM for Image # 2057 :  0.94708799424 
+
+SSIM for Image # 2058 :  0.926313579674 
+
+SSIM for Image # 2059 :  0.943274595867 
+
+SSIM for Image # 2060 :  0.949840978845 
+
+SSIM for Image # 2061 :  0.928735916033 
+
+SSIM for Image # 2062 :  0.943027661723 
+
+SSIM for Image # 2063 :  0.94904771926 
+
+SSIM for Image # 2064 :  0.928933398608 
+
+SSIM for Image # 2065 :  0.943955959927 
+
+SSIM for Image # 2066 :  0.949009260207 
+
+SSIM for Image # 2067 :  0.922009484814 
+
+SSIM for Image # 2068 :  0.928936897633 
+
+SSIM for Image # 2069 :  0.941970920377 
+
+SSIM for Image # 2070 :  0.949311211587 
+
+SSIM for Image # 2071 :  0.927554370446 
+
+SSIM for Image # 2072 :  0.94301028164 
+
+SSIM for Image # 2073 :  0.949437557531 
+
+SSIM for Image # 2074 :  0.928196352984 
+
+SSIM for Image # 2075 :  0.942534252122 
+
+SSIM for Image # 2076 :  0.947697652628 
+
+SSIM for Image # 2077 :  0.927725580768 
+
+SSIM for Image # 2078 :  0.933780316875 
+
+SSIM for Image # 2079 :  0.942089008867 
+
+SSIM for Image # 2080 :  0.948133503052 
+
+SSIM for Image # 2081 :  0.927153523576 
+
+SSIM for Image # 2082 :  0.942396663762 
+
+SSIM for Image # 2083 :  0.948439166584 
+
+SSIM for Image # 2084 :  0.926154858583 
+
+SSIM for Image # 2085 :  0.942323805022 
+
+SSIM for Image # 2086 :  0.948523953636 
+
+SSIM for Image # 2087 :  0.928507321156 
+
+SSIM for Image # 2088 :  0.942862790145 
+
+SSIM for Image # 2089 :  0.912742274355 
+
+SSIM for Image # 2090 :  0.947786594123 
+
+SSIM for Image # 2091 :  0.950502508275 
+
+SSIM for Image # 2092 :  0.946878670967 
+
+SSIM for Image # 2093 :  0.951306493719 
+
+SSIM for Image # 2094 :  0.933632159079 
+
+SSIM for Image # 2095 :  0.947103605855 
+
+SSIM for Image # 2096 :  0.951424484023 
+
+SSIM for Image # 2097 :  0.933425335243 
+
+SSIM for Image # 2098 :  0.94580089983 
+
+SSIM for Image # 2099 :  0.950300305092 
+
+SSIM for Image # 2100 :  0.930656514688 
+
+SSIM for Image # 2101 :  0.93267884354 
+
+SSIM for Image # 2102 :  0.944389088149 
+
+SSIM for Image # 2103 :  0.949844271413 
+
+SSIM for Image # 2104 :  0.933846848626 
+
+SSIM for Image # 2105 :  0.946389338255 
+
+SSIM for Image # 2106 :  0.951647224114 
+
+SSIM for Image # 2107 :  0.935219785948 
+
+SSIM for Image # 2108 :  0.94464141582 
+
+SSIM for Image # 2109 :  0.950133861593 
+
+SSIM for Image # 2110 :  0.930596996153 
+
+SSIM for Image # 2111 :  1.0 
+
+SSIM for Image # 2112 :  0.900792886127 
+
+SSIM for Image # 2113 :  0.945643794322 
+
+SSIM for Image # 2114 :  0.950960786694 
+
+SSIM for Image # 2115 :  0.932746874906 
+
+SSIM for Image # 2116 :  0.947630010033 
+
+SSIM for Image # 2117 :  0.951377499515 
+
+SSIM for Image # 2118 :  0.927284759311 
+
+SSIM for Image # 2119 :  0.940815855495 
+
+SSIM for Image # 2120 :  0.947107499431 
+
+SSIM for Image # 2121 :  0.926019309241 
+
+SSIM for Image # 2122 :  0.940070043012 
+
+SSIM for Image # 2123 :  0.929096978365 
+
+SSIM for Image # 2124 :  0.946930625671 
+
+SSIM for Image # 2125 :  0.92533243282 
+
+SSIM for Image # 2126 :  0.945418502726 
+
+SSIM for Image # 2127 :  0.926006752975 
+
+SSIM for Image # 2128 :  0.940043702298 
+
+SSIM for Image # 2129 :  0.946909528341 
+
+SSIM for Image # 2130 :  0.926771306117 
+
+SSIM for Image # 2131 :  0.946365994557 
+
+SSIM for Image # 2132 :  0.927657485321 
+
+SSIM for Image # 2133 :  0.946532706459 
+
+SSIM for Image # 2134 :  0.907768283646 
+
+SSIM for Image # 2135 :  0.928866145677 
+
+SSIM for Image # 2136 :  0.941733039459 
+
+SSIM for Image # 2137 :  0.945826029938 
+
+SSIM for Image # 2138 :  0.923376980485 
+
+SSIM for Image # 2139 :  0.945111844184 
+
+SSIM for Image # 2140 :  0.92648669554 
+
+SSIM for Image # 2141 :  0.947817581079 
+
+SSIM for Image # 2142 :  0.928322610066 
+
+SSIM for Image # 2143 :  0.9482300635 
+
+SSIM for Image # 2144 :  0.928287647522 
+
+SSIM for Image # 2145 :  0.918670023598 
+
+SSIM for Image # 2146 :  0.942627684907 
+
+SSIM for Image # 2147 :  0.948410182098 
+
+SSIM for Image # 2148 :  0.926823767191 
+
+SSIM for Image # 2149 :  0.942354072735 
+
+SSIM for Image # 2150 :  0.948573384948 
+
+SSIM for Image # 2151 :  0.927334196675 
+
+SSIM for Image # 2152 :  0.942961801084 
+
+SSIM for Image # 2153 :  0.948401021571 
+
+SSIM for Image # 2154 :  0.925589731589 
+
+SSIM for Image # 2155 :  0.946111498691 
+
+SSIM for Image # 2156 :  0.932199532128 
+
+SSIM for Image # 2157 :  0.9254982108 
+
+SSIM for Image # 2158 :  0.948602838878 
+
+SSIM for Image # 2159 :  0.926022736206 
+
+SSIM for Image # 2160 :  0.941487695208 
+
+SSIM for Image # 2161 :  0.950055038902 
+
+SSIM for Image # 2162 :  0.928847101565 
+
+SSIM for Image # 2163 :  0.944712186393 
+
+SSIM for Image # 2164 :  0.950158382335 
+
+SSIM for Image # 2165 :  0.930025995348 
+
+SSIM for Image # 2166 :  0.948560551837 
+
+SSIM for Image # 2167 :  0.905664397863 
+
+SSIM for Image # 2168 :  0.929329129162 
+
+SSIM for Image # 2169 :  0.948350244926 
+
+SSIM for Image # 2170 :  0.927687530028 
+
+SSIM for Image # 2171 :  0.941730357265 
+
+SSIM for Image # 2172 :  0.947428676446 
+
+SSIM for Image # 2173 :  0.926229391661 
+
+SSIM for Image # 2174 :  0.946991163154 
+
+SSIM for Image # 2175 :  0.926547225963 
+
+SSIM for Image # 2176 :  0.93374531106 
+
+SSIM for Image # 2177 :  0.948984377552 
+
+SSIM for Image # 2178 :  0.919468261389 
+
+SSIM for Image # 2179 :  0.935415398755 
+
+SSIM for Image # 2180 :  0.951111905734 
+
+SSIM for Image # 2181 :  0.935817410419 
+
+SSIM for Image # 2182 :  0.947285199777 
+
+SSIM for Image # 2183 :  0.958954848765 
+
+SSIM for Image # 2184 :  0.948850271929 
+
+SSIM for Image # 2185 :  0.96328171153 
+
+SSIM for Image # 2186 :  0.95753372848 
+
+SSIM for Image # 2187 :  0.965906536245 
+
+SSIM for Image # 2188 :  0.974362183809 
+
+SSIM for Image # 2189 :  0.932547989448 
+
+SSIM for Image # 2190 :  0.975927840644 
+
+SSIM for Image # 2191 :  0.98535753013 
+
+SSIM for Image # 2192 :  0.985224077127 
+
+SSIM for Image # 2193 :  0.989140526517 
+
+SSIM for Image # 2194 :  0.990584467192 
+
+SSIM for Image # 2195 :  0.988914369765 
+
+SSIM for Image # 2196 :  0.990064008347 
+
+SSIM for Image # 2197 :  0.989540486963 
+
+SSIM for Image # 2198 :  0.987325702155 
+
+SSIM for Image # 2199 :  0.989584574863 
+
+SSIM for Image # 2200 :  0.907362003197 
+
+SSIM for Image # 2201 :  0.993715893375 
+
+SSIM for Image # 2202 :  0.993038781944 
+
+SSIM for Image # 2203 :  0.993592781879 
+
+SSIM for Image # 2204 :  0.993956734459 
+
+SSIM for Image # 2205 :  0.994172000002 
+
+SSIM for Image # 2206 :  0.993448657408 
+
+SSIM for Image # 2207 :  0.994197178619 
+
+SSIM for Image # 2208 :  0.99371700139 
+
+SSIM for Image # 2209 :  0.994024899691 
+
+SSIM for Image # 2210 :  0.993416561853 
+
+SSIM for Image # 2211 :  0.919248282805 
+
+SSIM for Image # 2212 :  0.993568423142 
+
+SSIM for Image # 2213 :  0.99409748941 
+
+SSIM for Image # 2214 :  0.993057697642 
+
+SSIM for Image # 2215 :  0.993818220156 
+
+SSIM for Image # 2216 :  0.992945023132 
+
+SSIM for Image # 2217 :  0.993618084361 
+
+SSIM for Image # 2218 :  0.992486417679 
+
+SSIM for Image # 2219 :  0.993152426258 
+
+SSIM for Image # 2220 :  0.993393451391 
+
+SSIM for Image # 2221 :  0.992445087527 
+
+SSIM for Image # 2222 :  1.0 
+
+SSIM for Image # 2223 :  1.0 
+
+SSIM for Image # 2224 :  0.932396150445 
+
+SSIM for Image # 2225 :  0.992566259988 
+
+SSIM for Image # 2226 :  0.996001029697 
+
+SSIM for Image # 2227 :  0.994838787845 
+
+SSIM for Image # 2228 :  0.995212417208 
+
+SSIM for Image # 2229 :  0.995430916324 
+
+SSIM for Image # 2230 :  0.994621557433 
+
+SSIM for Image # 2231 :  0.994875655398 
+
+SSIM for Image # 2232 :  0.995307414936 
+
+SSIM for Image # 2233 :  0.99436524286 
+
+SSIM for Image # 2234 :  0.994851067941 
+
+SSIM for Image # 2235 :  0.906733992763 
+
+SSIM for Image # 2236 :  0.995213735948 
+
+SSIM for Image # 2237 :  0.994444589165 
+
+SSIM for Image # 2238 :  0.994696578101 
