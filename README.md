@@ -2,6 +2,14 @@
 
 This module implements the Structural Similarity Image Metric (SSIM). Original code written by Antoine Vacavant from http://isit.u-clermont1.fr/~anvacava/code.html, with modifications by Christopher Godfrey, Jeff Terrace and Devasia Manuel 
 
+## Prereqs
+
+A video should be decomposed into image files with ffmpeg before running this tool:
+
+    $ ffmpeg -i <pathToVideo> -f image2 %d.png
+    
+Image files for seperate videos should be stored in seperate directories, these directories can be passed to pyssim to calculate the SSIM for each frame of video
+
 ## Installation
 
     pip install pyssim
