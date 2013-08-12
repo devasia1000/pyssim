@@ -8,10 +8,18 @@ This module implements the Structural Similarity Image Metric (SSIM). Original c
 
 ## Running
 
+##Method 1
     $ pyssim --help
     usage: pyssim [-h] path_to_dir1 path_to_dir2
     ##NOTE: path_to_dir1 and path_to_dir2 should not include the trailing backslash
 
+    Compares two directories of images using the SSIM metric
+
+##Method 2
+    python ./ssim/__main__.py path_to_dir1 path_to_dir2
+ 
+    ##NOTE: path_to_dir1 and path_to_dir2 should not include the trailing backslash
+    
     Compares two directories of images using the SSIM metric
 
 ## References
