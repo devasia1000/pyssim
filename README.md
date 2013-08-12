@@ -1,6 +1,6 @@
 # pyssim
 
-This module implements the Structural Similarity Image Metric (SSIM). Original code written by Antoine Vacavant from http://isit.u-clermont1.fr/~anvacava/code.html, with modifications by Christopher Godfrey and Jeff Terrace.
+This module implements the Structural Similarity Image Metric (SSIM). Original code written by Antoine Vacavant from http://isit.u-clermont1.fr/~anvacava/code.html, with modifications by Christopher Godfrey, Jeff Terrace and Devasia Manuel 
 
 ## Installation
 
