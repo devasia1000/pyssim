@@ -20,7 +20,8 @@ def main():
     compare_images.sort()
     
     try:
-	assert(len(base_images)==len(compare_images))
+	#assert(len(base_images)==len(compare_images))
+	pass
     except:
 	print "number of image files mismatch"
 	print base_dir, ": ", len(base_images)," ", compare_dir, ": ", len(compare_images)
