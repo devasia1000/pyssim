@@ -1,0 +1,313 @@
+SSIM for Image # 100 :  0.870274892796
+SSIM for Image # 101 :  0.881660156394
+SSIM for Image # 102 :  0.849089345233
+SSIM for Image # 103 :  0.862891880654
+SSIM for Image # 104 :  0.878977143077
+SSIM for Image # 105 :  0.846404471271
+SSIM for Image # 106 :  0.862693015535
+SSIM for Image # 107 :  0.879240814579
+SSIM for Image # 108 :  0.847646750447
+SSIM for Image # 109 :  0.864018494035
+SSIM for Image # 110 :  0.879437017493
+SSIM for Image # 111 :  0.844876712555
+SSIM for Image # 112 :  0.865390732802
+SSIM for Image # 113 :  0.880764521567
+SSIM for Image # 114 :  0.852734940968
+SSIM for Image # 115 :  0.863108275105
+SSIM for Image # 116 :  0.879130806083
+SSIM for Image # 117 :  0.848164120998
+SSIM for Image # 118 :  0.862677417529
+SSIM for Image # 119 :  0.878340276836
+SSIM for Image # 120 :  0.848374429327
+SSIM for Image # 121 :  0.863570132089
+SSIM for Image # 122 :  0.879380170786
+SSIM for Image # 123 :  0.839043869956
+SSIM for Image # 124 :  0.859758503172
+SSIM for Image # 125 :  0.878829554405
+SSIM for Image # 126 :  0.84558364556
+SSIM for Image # 127 :  0.859987825556
+SSIM for Image # 128 :  0.877628401422
+SSIM for Image # 129 :  0.841657140272
+Error processing Image #  130 . File does not exist!
+SSIM for Image # 131 :  0.874120558735
+SSIM for Image # 132 :  0.843012009397
+SSIM for Image # 133 :  0.859543077185
+SSIM for Image # 134 :  0.87548458355
+SSIM for Image # 135 :  0.841095267228
+SSIM for Image # 136 :  0.856746530931
+SSIM for Image # 137 :  0.877797813486
+SSIM for Image # 138 :  0.841585800963
+SSIM for Image # 139 :  0.860853300077
+SSIM for Image # 140 :  0.877309037757
+SSIM for Image # 141 :  0.84152688242
+SSIM for Image # 142 :  0.85824189014
+SSIM for Image # 143 :  0.875669369886
+SSIM for Image # 144 :  0.8433890342
+SSIM for Image # 145 :  0.857513114684
+SSIM for Image # 146 :  0.873607815192
+SSIM for Image # 147 :  0.827239070352
+SSIM for Image # 148 :  0.853046051903
+SSIM for Image # 149 :  0.871577991757
+SSIM for Image # 150 :  0.835846045486
+SSIM for Image # 151 :  0.853123646481
+SSIM for Image # 152 :  0.870672642271
+SSIM for Image # 153 :  0.839620140619
+SSIM for Image # 154 :  0.855424281049
+SSIM for Image # 155 :  0.871266051693
+SSIM for Image # 156 :  0.837397002389
+SSIM for Image # 157 :  0.854763956884
+SSIM for Image # 158 :  0.871530308239
+SSIM for Image # 159 :  0.836173454567
+SSIM for Image # 160 :  0.854269360069
+SSIM for Image # 161 :  0.871702216618
+SSIM for Image # 162 :  0.834692981202
+SSIM for Image # 163 :  0.852182687695
+SSIM for Image # 164 :  0.871926758101
+SSIM for Image # 165 :  0.838971360995
+SSIM for Image # 166 :  0.852056440434
+SSIM for Image # 167 :  0.872450284606
+SSIM for Image # 168 :  0.841563340294
+SSIM for Image # 169 :  0.852419040762
+SSIM for Image # 170 :  0.870699638264
+SSIM for Image # 171 :  0.828245683002
+SSIM for Image # 172 :  0.85163182442
+SSIM for Image # 173 :  0.868923686096
+SSIM for Image # 174 :  0.834210622326
+SSIM for Image # 175 :  0.85024636173
+SSIM for Image # 176 :  0.868373549899
+SSIM for Image # 177 :  0.832268053798
+SSIM for Image # 178 :  0.85363469349
+SSIM for Image # 179 :  0.867513220006
+SSIM for Image # 180 :  0.836616960657
+SSIM for Image # 181 :  0.854552292469
+SSIM for Image # 182 :  0.870544719068
+SSIM for Image # 183 :  0.837067629804
+SSIM for Image # 184 :  0.852530415187
+SSIM for Image # 185 :  0.870194014751
+SSIM for Image # 186 :  0.836718427367
+SSIM for Image # 187 :  0.854124671641
+SSIM for Image # 188 :  0.870208417694
+SSIM for Image # 189 :  0.835985800498
+SSIM for Image # 190 :  0.854405184697
+SSIM for Image # 191 :  0.872063419781
+SSIM for Image # 192 :  0.845456176164
+SSIM for Image # 193 :  0.856801227458
+SSIM for Image # 194 :  0.871964902693
+SSIM for Image # 195 :  0.831744418137
+SSIM for Image # 196 :  0.869320301348
+SSIM for Image # 197 :  0.842344770559
+SSIM for Image # 198 :  0.858186059736
+SSIM for Image # 199 :  0.874119841392
+SSIM for Image # 200 :  0.843180948045
+SSIM for Image # 201 :  0.859914798907
+SSIM for Image # 202 :  0.875878550015
+SSIM for Image # 203 :  0.844345641529
+SSIM for Image # 204 :  0.873040408504
+SSIM for Image # 205 :  0.847927751281
+SSIM for Image # 206 :  0.861614555831
+SSIM for Image # 207 :  0.877164539812
+SSIM for Image # 208 :  0.846100528115
+SSIM for Image # 209 :  0.860968868108
+SSIM for Image # 210 :  0.877270827998
+SSIM for Image # 211 :  0.845879493652
+SSIM for Image # 212 :  0.87482618957
+SSIM for Image # 213 :  0.847136011709
+SSIM for Image # 214 :  0.861488382609
+SSIM for Image # 215 :  0.878353498091
+SSIM for Image # 216 :  0.849225957381
+SSIM for Image # 217 :  0.861510827312
+SSIM for Image # 218 :  0.877581433835
+SSIM for Image # 219 :  0.837992110133
+SSIM for Image # 220 :  0.861205112299
+SSIM for Image # 221 :  0.877300063854
+SSIM for Image # 222 :  0.846999469115
+SSIM for Image # 223 :  0.860873607148
+SSIM for Image # 224 :  0.878315061391
+SSIM for Image # 225 :  0.845583199944
+SSIM for Image # 226 :  0.862038666572
+SSIM for Image # 227 :  0.880457254993
+SSIM for Image # 228 :  0.848139263898
+SSIM for Image # 229 :  0.859417006765
+SSIM for Image # 230 :  0.880653795668
+SSIM for Image # 231 :  0.846238466404
+SSIM for Image # 232 :  0.863153425547
+SSIM for Image # 233 :  0.878966717348
+SSIM for Image # 234 :  0.847494032145
+SSIM for Image # 235 :  0.867277621073
+SSIM for Image # 236 :  0.880216845115
+SSIM for Image # 237 :  0.846736360485
+SSIM for Image # 238 :  0.864117430721
+SSIM for Image # 239 :  0.880125239312
+SSIM for Image # 240 :  0.857886340721
+SSIM for Image # 241 :  0.866052665463
+SSIM for Image # 242 :  0.880557387344
+SSIM for Image # 243 :  0.84020668274
+SSIM for Image # 244 :  0.875316392159
+SSIM for Image # 245 :  0.85019815219
+SSIM for Image # 246 :  0.865236339056
+SSIM for Image # 247 :  0.882326132984
+SSIM for Image # 248 :  0.858091311675
+SSIM for Image # 249 :  0.865914917811
+SSIM for Image # 250 :  0.881897306715
+SSIM for Image # 251 :  0.850998946107
+SSIM for Image # 252 :  0.860464706873
+SSIM for Image # 253 :  0.879435086473
+SSIM for Image # 254 :  0.849673963465
+SSIM for Image # 255 :  0.866124719837
+SSIM for Image # 256 :  0.882456994307
+SSIM for Image # 257 :  0.852024330434
+SSIM for Image # 258 :  0.866793474826
+SSIM for Image # 259 :  0.883343562745
+SSIM for Image # 260 :  0.853285599124
+SSIM for Image # 261 :  0.881143176667
+SSIM for Image # 262 :  0.856238458081
+SSIM for Image # 263 :  0.882112795092
+SSIM for Image # 264 :  0.858782998437
+SSIM for Image # 265 :  0.869233831302
+SSIM for Image # 266 :  0.883965853776
+SSIM for Image # 267 :  0.846539507695
+SSIM for Image # 268 :  0.88031176596
+SSIM for Image # 269 :  0.857593339865
+SSIM for Image # 270 :  0.86951317051
+SSIM for Image # 271 :  0.884439806141
+SSIM for Image # 272 :  0.855053300219
+SSIM for Image # 273 :  0.88204119996
+SSIM for Image # 274 :  Error processing Image #  274 . File does not exist!
+SSIM for Image # 275 :  Error processing Image #  275 . File does not exist!
+SSIM for Image # 276 :  Error processing Image #  276 . File does not exist!
+SSIM for Image # 277 :  Error processing Image #  277 . File does not exist!
+SSIM for Image # 278 :  Error processing Image #  278 . File does not exist!
+Error processing Image #  279 . File does not exist!
+SSIM for Image # 280 :  Error processing Image #  280 . File does not exist!
+SSIM for Image # 281 :  Error processing Image #  281 . File does not exist!
+SSIM for Image # 282 :  Error processing Image #  282 . File does not exist!
+SSIM for Image # 283 :  Error processing Image #  283 . File does not exist!
+SSIM for Image # 284 :  Error processing Image #  284 . File does not exist!
+SSIM for Image # 285 :  Error processing Image #  285 . File does not exist!
+SSIM for Image # 286 :  Error processing Image #  286 . File does not exist!
+SSIM for Image # 287 :  Error processing Image #  287 . File does not exist!
+SSIM for Image # 288 :  Error processing Image #  288 . File does not exist!
+SSIM for Image # 289 :  Error processing Image #  289 . File does not exist!
+SSIM for Image # 290 :  Error processing Image #  290 . File does not exist!
+Error processing Image #  291 . File does not exist!
+SSIM for Image # 292 :  Error processing Image #  292 . File does not exist!
+SSIM for Image # 293 :  Error processing Image #  293 . File does not exist!
+SSIM for Image # 294 :  Error processing Image #  294 . File does not exist!
+SSIM for Image # 295 :  Error processing Image #  295 . File does not exist!
+SSIM for Image # 296 :  Error processing Image #  296 . File does not exist!
+SSIM for Image # 297 :  Error processing Image #  297 . File does not exist!
+SSIM for Image # 298 :  Error processing Image #  298 . File does not exist!
+SSIM for Image # 299 :  Error processing Image #  299 . File does not exist!
+SSIM for Image # 300 :  Error processing Image #  300 . File does not exist!
+Error processing Image #  301 . File does not exist!
+SSIM for Image # 302 :  Error processing Image #  302 . File does not exist!
+SSIM for Image # 303 :  Error processing Image #  303 . File does not exist!
+SSIM for Image # 304 :  Error processing Image #  304 . File does not exist!
+SSIM for Image # 305 :  Error processing Image #  305 . File does not exist!
+SSIM for Image # 306 :  Error processing Image #  306 . File does not exist!
+SSIM for Image # 307 :  Error processing Image #  307 . File does not exist!
+SSIM for Image # 308 :  Error processing Image #  308 . File does not exist!
+SSIM for Image # 309 :  Error processing Image #  309 . File does not exist!
+SSIM for Image # 310 :  Error processing Image #  310 . File does not exist!
+SSIM for Image # 311 :  Error processing Image #  311 . File does not exist!
+SSIM for Image # 312 :  Error processing Image #  312 . File does not exist!
+SSIM for Image # 313 :  Error processing Image #  313 . File does not exist!
+SSIM for Image # 314 :  Error processing Image #  314 . File does not exist!
+SSIM for Image # 315 :  Error processing Image #  315 . File does not exist!
+SSIM for Image # 316 :  Error processing Image #  316 . File does not exist!
+SSIM for Image # 317 :  Error processing Image #  317 . File does not exist!
+Error processing Image #  318 . File does not exist!
+SSIM for Image # 319 :  Error processing Image #  319 . File does not exist!
+Error processing Image #  320 . File does not exist!
+SSIM for Image # 321 :  Error processing Image #  321 . File does not exist!
+Error processing Image #  322 . File does not exist!
+SSIM for Image # 323 :  Error processing Image #  323 . File does not exist!
+SSIM for Image # 324 :  Error processing Image #  324 . File does not exist!
+Error processing Image #  325 . File does not exist!
+SSIM for Image # 326 :  Error processing Image #  326 . File does not exist!
+Error processing Image #  327 . File does not exist!
+SSIM for Image # 328 :  Error processing Image #  328 . File does not exist!
+Error processing Image #  329 . File does not exist!
+SSIM for Image # 330 :  Error processing Image #  330 . File does not exist!
+SSIM for Image # 331 :  Error processing Image #  331 . File does not exist!
+Error processing Image #  332 . File does not exist!
+SSIM for Image # 333 :  Error processing Image #  333 . File does not exist!
+Error processing Image #  334 . File does not exist!
+Error processing Image #  335 . File does not exist!
+Error processing Image #  336 . File does not exist!
+SSIM for Image # 337 :  Error processing Image #  337 . File does not exist!
+SSIM for Image # 338 :  Error processing Image #  338 . File does not exist!
+SSIM for Image # 339 :  Error processing Image #  339 . File does not exist!
+SSIM for Image # 340 :  Error processing Image #  340 . File does not exist!
+SSIM for Image # 341 :  Error processing Image #  341 . File does not exist!
+Error processing Image #  342 . File does not exist!
+SSIM for Image # 343 :  Error processing Image #  343 . File does not exist!
+SSIM for Image # 344 :  Error processing Image #  344 . File does not exist!
+SSIM for Image # 345 :  Error processing Image #  345 . File does not exist!
+SSIM for Image # 346 :  Error processing Image #  346 . File does not exist!
+SSIM for Image # 347 :  Error processing Image #  347 . File does not exist!
+SSIM for Image # 348 :  Error processing Image #  348 . File does not exist!
+SSIM for Image # 349 :  Error processing Image #  349 . File does not exist!
+SSIM for Image # 350 :  Error processing Image #  350 . File does not exist!
+SSIM for Image # 351 :  Error processing Image #  351 . File does not exist!
+SSIM for Image # 352 :  Error processing Image #  352 . File does not exist!
+SSIM for Image # 353 :  Error processing Image #  353 . File does not exist!
+SSIM for Image # 354 :  Error processing Image #  354 . File does not exist!
+Error processing Image #  355 . File does not exist!
+Error processing Image #  356 . File does not exist!
+SSIM for Image # 357 :  Error processing Image #  357 . File does not exist!
+Error processing Image #  358 . File does not exist!
+SSIM for Image # 359 :  Error processing Image #  359 . File does not exist!
+SSIM for Image # 360 :  Error processing Image #  360 . File does not exist!
+SSIM for Image # 361 :  Error processing Image #  361 . File does not exist!
+SSIM for Image # 362 :  Error processing Image #  362 . File does not exist!
+SSIM for Image # 363 :  Error processing Image #  363 . File does not exist!
+SSIM for Image # 364 :  Error processing Image #  364 . File does not exist!
+SSIM for Image # 365 :  Error processing Image #  365 . File does not exist!
+SSIM for Image # 366 :  Error processing Image #  366 . File does not exist!
+SSIM for Image # 367 :  Error processing Image #  367 . File does not exist!
+Error processing Image #  368 . File does not exist!
+SSIM for Image # 369 :  Error processing Image #  369 . File does not exist!
+SSIM for Image # 370 :  Error processing Image #  370 . File does not exist!
+SSIM for Image # 371 :  Error processing Image #  371 . File does not exist!
+SSIM for Image # 372 :  Error processing Image #  372 . File does not exist!
+Error processing Image #  373 . File does not exist!
+Error processing Image #  374 . File does not exist!
+Error processing Image #  375 . File does not exist!
+SSIM for Image # 376 :  Error processing Image #  376 . File does not exist!
+Error processing Image #  377 . File does not exist!
+Error processing Image #  378 . File does not exist!
+Error processing Image #  379 . File does not exist!
+SSIM for Image # 380 :  Error processing Image #  380 . File does not exist!
+Error processing Image #  381 . File does not exist!
+Error processing Image #  382 . File does not exist!
+Error processing Image #  383 . File does not exist!
+Error processing Image #  384 . File does not exist!
+Error processing Image #  385 . File does not exist!
+Error processing Image #  386 . File does not exist!
+Error processing Image #  387 . File does not exist!
+Error processing Image #  388 . File does not exist!
+Error processing Image #  389 . File does not exist!
+SSIM for Image # 390 :  Error processing Image #  390 . File does not exist!
+Error processing Image #  391 . File does not exist!
+Error processing Image #  392 . File does not exist!
+Error processing Image #  393 . File does not exist!
+Error processing Image #  394 . File does not exist!
+Error processing Image #  395 . File does not exist!
+Error processing Image #  396 . File does not exist!
+Error processing Image #  397 . File does not exist!
+Error processing Image #  398 . File does not exist!
+Error processing Image #  399 . File does not exist!
+SSIM for Image # 400 :  Error processing Image #  400 . File does not exist!
+SSIM for Image # 401 :  Error processing Image #  401 . File does not exist!
+Error processing Image #  402 . File does not exist!
+SSIM for Image # 403 :  Error processing Image #  403 . File does not exist!
+SSIM for Image # 404 :  Error processing Image #  404 . File does not exist!
+SSIM for Image # 405 :  Error processing Image #  405 . File does not exist!
+SSIM for Image # 406 :  Error processing Image #  406 . File does not exist!
+SSIM for Image # 407 :  Error processing Image #  407 . File does not exist!
+SSIM for Image # 408 :  Error processing Image #  408 . File does not exist!
+SSIM for Image # 409 :  Error processing Image #  409 . File does not exist!
+SSIM for Image # 410 :  Error processing Image #  410 . File does not exist!
+SSIM for Image # 411 :  Error processing Image #  411 . File does not exist!
+Error
