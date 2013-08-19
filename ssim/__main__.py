@@ -13,7 +13,7 @@ def main():
     base_dir=args.base_dir
     compare_dir=args.comparison_dir
 
-    for i in range(1, 1000):
+    for i in range(1, 1500):
         try:
     	    im1 = Image.open(args.base_dir+str(i)+".png")
     	    im2 = Image.open(args.comparison_dir+str(i)+".png")
