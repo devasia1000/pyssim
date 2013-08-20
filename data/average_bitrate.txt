@@ -1,8 +1,8 @@
-Average Bitrate for 144p: 52988.40
-Average Bitrate for 240p: 122583.28
-Average Bitrate for 360p: 272911.24
-Average Bitrate for 480p: 438198.19
-Average Bitrate for 720p: 830758.38 
-Average Bitrate for 1080p: 1404641.57
+Average Bitrate for 144p (bits per second) : 1324710
+Average Bitrate for 240p (bits per second) : 3064582
+Average Bitrate for 360p (bits per second) : 6822781
+Average Bitrate for 480p (bits per second) : 10954954.75
+Average Bitrate for 720p (bits per second) : 20768959.5 
+Average Bitrate for 1080p (bits per second) : 35116039.25
 
 
