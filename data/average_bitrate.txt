@@ -1,8 +1,8 @@
 I've used mencoder to pipe the played bytes to a file. Then I measured the size of the file and divided by the length of the video in seconds. Here are the average bitrates:
 
-Average bitrate for 1080p: 488638 B/s
-Average bitrate for 720p: 220503 B/s
-Average bitrate for 480p: 100500 B/s
-Average bitrate for 360p: 48537 B/s
-Average bitrate for 240p: 30304 B/s
-Average bitrate for 144p: 13588 B/s
+Average bitrate for 1080p: 3815.355 kbit/s
+Average bitrate for 720p: 1777.294 kbit/s
+Average bitrate for 480p: 814.974 kbit/s
+Average bitrate for 360p: 395.506 kbit/s
+Average bitrate for 240p: 242.416 kbit/s
+Average bitrate for 144p: 108.697 kbit/s
