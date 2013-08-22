@@ -29,20 +29,18 @@ def readSSIM():
     file_144p=open(expanduser("~")+"/pyssim/data/youtube_144p_ssim.txt")
     readFile(file_144p, ssim_144p)
 
-    
-
-
-
-
 stream={"2.0736e+06": ssim_1080p, "921600": ssim_720p, "409920": ssim_480p, "230400": ssim_360p, "102240": ssim_240p, "36864": ssim_144p}
  
 readSSIM()
 
 for line in fileinput.input():
-    line=line.rstrip().strip()    
-    sp=line.split(",")
-    frame_count=sp[0].split(":")[1]
-    video_resolution=sp[1].split(":")[1]
-    
-    print "SSIM for Frame #", frame_count, "of resolution", video_resolution, ":", stream[video_resolution][frame_count]
+    if (line.find("Frame") is not -1) or (line.find ("Resolution") is not -1):
+	    try:
+		line=line.rstrip().strip()    
+		sp=line.split(",")
+		frame_count=sp[0].split(":")[1]
+		video_resolution=sp[1].split(":")[1]
+		print "SSIM for Frame #", frame_count, "of resolution", video_resolution, ":", stream[video_resolution][frame_count]
+	    except:
+		print ("Error while processing:'"+str(line)+"'", "")
     
