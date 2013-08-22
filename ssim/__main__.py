@@ -14,12 +14,12 @@ def main():
     compare_dir=args.comparison_dir
 
     for i in range(1, 10001):
-        try:
+#        try:
     	    im1 = Image.open(args.base_dir+str(i)+".png")
     	    im2 = Image.open(args.comparison_dir+str(i)+".png")
     	    print "SSIM for Image #", i, ": ", ssim.compute_ssim(im1, im2)
-        except:
-	    print "Error processing Image # ", i, ". File", args.base_dir+str(i), "or", args.comparison_dir+str(i), "does not exist!"
+ #       except:
+#	    print "Error processing Image # ", i, ". File", args.base_dir+str(i)+str(".png"), "or", args.comparison_dir+str(i)+str(".png"), "does not exist!"
     
 if __name__ == '__main__':
     main()
