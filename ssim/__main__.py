@@ -13,7 +13,7 @@ def main():
     original_dir=args.original_dir
     compare_dir=args.comparison_dir
 
-    for i in range(1, 6000):
+    for i in range(1, 6500):
 		im1 = Image.open(args.original_dir+str(i)+".png")
 		im2=Image.open(args.comparison_dir+str(i)+".png")
 		ssim_value=ssim.compute_ssim(im1, im2);
